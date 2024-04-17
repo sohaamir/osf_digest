@@ -1,0 +1,845 @@
+[
+    {
+        "id": "rh6vf",
+        "title": "The Influence of Age on the Effectiveness of Misinformation Retractions",
+        "authors": [
+            "McIlhiney, Paul",
+            "Prike, Toby",
+            "Ecker, Ullrich K H"
+        ],
+        "abstract": [
+            "Misinformation has become a prescient issue in public and academic domains. One pernicious aspect of",
+            "misinformation is that it can persistently influence people's judgements after clear and credible correction--a phenomenon",
+            "dubbed the continued influence effect. There has been speculation that age may affect people's susceptibility",
+            "to the continued influence effect, but previous research has produced inconclusive evidence. In an attempt",
+            "to reconcile conflicting findings, the current study used a continued influence paradigm in which causal",
+            "event misinformation was retracted. Two samples were analysed with correlation analyses and linear mixed-effects modelling:",
+            "an online sample aged 21-79 (the 21+ sample; N = 259) and an in-person sample",
+            "aged 56-92 (the 56+ sample; N = 143). Results showed that, when controlling for poor",
+            "encoding of experimental materials in the online 21+ sample, age had no significant effect on",
+            "the effectiveness of misinformation retractions, though declining effectiveness was observed with advanced older age in",
+            "the 56+ sample."
+        ],
+        "date_published": "2024-04-13T13:32:38.217504",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "age",
+            "continued influence effect",
+            "debunking",
+            "memory",
+            "misinformation"
+        ]
+    },
+    {
+        "id": "dkcq3",
+        "title": "Specialized Recall Procedures",
+        "authors": [
+            "Kahana, Michael J",
+            "Polyn, Sean M",
+            "Lohnas, Lynn J"
+        ],
+        "abstract": [
+            "Studies of memory search using the free recall paradigm have advanced our understanding of human",
+            "memory for more than a century. Here, we review seven specialized recall procedures that depart",
+            "from methodological orthodoxy: the inter-list repetition procedure, the list-before-last procedure, the recall-by-category procedure, the final-free",
+            "recall procedure, the overt-rehearsal procedure, the externalized recall procedure, and the spatial-temporal recall procedure. Key",
+            "empirical findings from each of these procedures have challenged existing theories and led to theoretical",
+            "advances."
+        ],
+        "date_published": "2024-04-12T04:41:17.200018",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "free recall"
+        ]
+    },
+    {
+        "id": "2cjru",
+        "title": "Ingredients of a narrative: How an abstract feature space and event position contribute to a situation model",
+        "authors": [
+            "Terporten, Rene",
+            "Willems, Roel",
+            "Flecken, Monique",
+            "Collin, Silvy"
+        ],
+        "abstract": [
+            "Situation models, mental representation of events that are unfolding in the environment, are known to",
+            "help structure our experiences in our memory. But what exactly are the ingredients of a",
+            "situation model and to what degree do abstract event features contribute to the updating cycle",
+            "of a situation model? Here, we used an event card experiment in which we systematically",
+            "manipulated abstract event feature dimensions and narrative specific factors. Participants actively constructed a narrative from",
+            "a random order of event descriptions, presented as event cards. After construction, memory of the",
+            "narrative specific events was tested in an oddball paradigm. We investigated the influence of the",
+            "abstract factors \"degree of feature change\" and \"position within the story\" on response speeding during",
+            "the oddball task. We discovered that participants were faster for oddballs with a different degree",
+            "of feature change, which interacted with whether the oddball was from within the same story",
+            "or from another story. When zooming in on oddballs from other stories only, we found",
+            "an interaction between position within the event structure and degree of feature change. Our results",
+            "suggest that people make use of an abstraction for keeping track of an event feature",
+            "space and narrative specific representations. These abstractions of event features are important for the instantiation",
+            "of a situation model."
+        ],
+        "date_published": "2024-04-11T08:04:20.239413",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": []
+    },
+    {
+        "id": "s5jkc",
+        "title": "What We Owe the Present: The Perceived Morality of Longtermism and Helping Distant Future People",
+        "authors": [
+            "Law, Kyle F",
+            "Syropoulos, Stylianos",
+            "Young, Liane",
+            "O'Connor, Brendan B"
+        ],
+        "abstract": [
+            "The increasingly influential longtermism philosophy advocates prioritizing resource allocations to relatively larger future populations to",
+            "maximize utilitarian gains. Yet, emerging research seeking to promote long-term intergenerational concern has overlooked a",
+            "key impediment which likely constrains intergenerational attitudes: human moral psychology. We investigate moral judgments and",
+            "social consequences of altruistic tradeoffs in generational closeness for gains in welfare, finding the ethical",
+            "principles of longtermism are misaligned with folk moral intuitions. Four US Prolific samples (N=2,306) reveal",
+            "that altruists who prioritize future welfare over generational closeness are perceived as less moral and",
+            "face social repercussions in both attitudes and behavior. Nonetheless, strong intergenerational concern can mitigate these",
+            "negative judgments. As society grapples with near-term and long-term challenges, these insights help reconcile prevailing",
+            "debates in psychological, philosophical, and public discourse, emphasizing key features decision-makers and policymakers should consider",
+            "when weighing the immediate and future needs of society."
+        ],
+        "date_published": "2024-04-11T03:28:07.642276",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "Behavioral Economics",
+            "Experimental Philosophy",
+            "Intergenerational Concern",
+            "Moral Psychology",
+            "Social Cognition"
+        ]
+    },
+    {
+        "id": "3e6kn",
+        "title": "Distortion of Overlapping Memories Relates to Arousal and Anxiety",
+        "authors": [
+            "Morrow, Erin",
+            "Clewett, David"
+        ],
+        "abstract": [
+            "Everyday experiences often overlap, challenging our ability to maintain distinct episodic memories. One way to",
+            "resolve such interference is by exaggerating subtle differences between remembered events, a phenomenon known as",
+            "memory repulsion. Here, we tested if repulsion is influenced by emotional arousal, when resolving memory",
+            "interference is perhaps most needed. We adapted an existing paradigm in which participants repeatedly studied",
+            "object-face associations. Participants studied two different colored versions of each object: a to-be-tested 'target' and",
+            "its not-to-be-tested 'competitor' pairmate. The level of interference between target and competitor pairmates was manipulated",
+            "by making the object colors either highly similar or less similar, depending on the participant",
+            "group. To manipulate arousal, the competitor object-face associations were preceded by either a neutral tone",
+            "or an aversive, arousing white noise burst. Memory distortion for the color of the target",
+            "objects was tested after each round of learning to examine if memory distortions gradually emerge",
+            "over time. We found that participants with greater sound-associated pupil dilations, an index of physiological",
+            "arousal, showed greater memory attraction of target colors towards highly similar competitor colors. Greater memory",
+            "attraction was also related to greater memory interference at the end of learning. Additionally, individuals",
+            "who self-reported higher trait anxiety showed greater memory attraction when one of the memories was",
+            "aversive. Our findings suggest that memories of similar neutral and arousing events may blur together",
+            "over time, especially in individuals who show higher arousal responses and symptoms of anxiety."
+        ],
+        "date_published": "2024-04-09T20:49:54.120557",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "anxiety",
+            "arousal",
+            "individual differences",
+            "interference",
+            "memory",
+            "pupil"
+        ]
+    },
+    {
+        "id": "23t6c",
+        "title": "Strategic reminder setting for time-based intentions: Influence of metacognition, delay length, and cue visibility",
+        "authors": [
+            "TSAI, PEI-CHUN",
+            "Gilbert, Sam"
+        ],
+        "abstract": [
+            "Time-based intentions, such as remembering to make a telephone call at a particular time or",
+            "removing food from the oven after a delay, can be highly cognitively demanding. In everyday",
+            "life, people often offload these demands to the external environment by setting alerts and reminders,",
+            "however this process of time-based intention offloading has rarely been examined experimentally. Here, we investigated",
+            "this process in a paradigm where participants had to remember to press a key after",
+            "a 10, 20, or 30 second delay, while simultaneously engaged in an ongoing 2-back working",
+            "memory task. Use of reminders improved accuracy, and participants were more likely to offload intentions",
+            "at longer delays. This process was driven at least partially by metacognitive beliefs about the",
+            "need for reminders, rather than the actual need. There was also an influence of time-monitoring",
+            "demands: offloading was reduced when a clock was always visible, compared with a condition where",
+            "participants had to press a button to reveal it. These results show that principles of",
+            "cognitive offloading established in other domains also apply to time-based prospective memory: it improves performance,",
+            "is influenced by cognitive demand, and guided by metacognitive beliefs."
+        ],
+        "date_published": "2024-04-08T14:48:46.816722",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": []
+    },
+    {
+        "id": "vfx7b",
+        "title": "Action planning renders objects in working memory more attentionally salient",
+        "authors": [
+            "Trentin, Caterina",
+            "Olivers, Christian N L",
+            "Slagter, Heleen A"
+        ],
+        "abstract": [
+            "A rapidly growing body of work suggests that visual working memory (VWM) is fundamentally action-oriented.",
+            "Consistent with this, we recently showed that attention is more strongly biased by VWM representations",
+            "of objects when we plan to act on those objects in the future. Using electroencephalography",
+            "(EEG) and eye tracking, here we investigated how action planning in VWM biases selective attention",
+            "at the neural level. Participants (n=36) memorized a shape for a subsequent VWM test. At",
+            "test, a probe was presented along with a secondary object. In the action condition, participants",
+            "had to grip the actual probe if it matched the memorized shape, while in the",
+            "control condition, they had to grip the secondary object. Crucially, during the VWM delay, participants",
+            "engaged in a visual selection task, in which they had to locate a target as",
+            "fast as possible. The memorized shape could either encircle the target (congruent trials) or a",
+            "distractor (incongruent trials). Replicating previous findings, we found that eye gaze was biased towards the",
+            "VWM-matching shape, and importantly, more so when the shape was directly associated with an action",
+            "plan. Moreover, the ERP results revealed that during the selection task, future action-relevant VWM-matching shapes",
+            "elicited (1) a stronger Ppc, signaling greater attentional saliency, (2) an earlier PD component, suggesting",
+            "faster suppression, (3) and a larger inverse (i.e., positive) SPCN in incongruent trials, consistent with",
+            "stronger suppression of action-associated distractors, and (4) an enhanced response-locked positivity over left motor regions,",
+            "possibly indicating enhanced inhibition of the response associated with the memorized item during the interim",
+            "task. Overall, these results suggest that action planning renders objects in VWM more attentionally salient,",
+            "supporting the notion of selection-for-action in working memory."
+        ],
+        "date_published": "2024-04-08T09:51:39.755788",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "Action planning",
+            "EEG",
+            "eye-tracking",
+            "Saliency",
+            "Visual Working Memory"
+        ]
+    },
+    {
+        "id": "5rh2k",
+        "title": "Insights into neural basis of human memory derived from intracranial recordings",
+        "authors": [
+            "Zheng, Jie",
+            "Rutishauser, Ueli"
+        ],
+        "abstract": [
+            "Intracranial recordings offer unparalleled spatiotemporal resolution in the study of human memory. In this chapter,",
+            "we highlight key intracranial recording studies that have provided major new insights into the neural",
+            "mechanisms of spatial memory, working memory, episodic memory, and emotional memory. We discuss the clinical",
+            "scenarios that have been used to examine memory in humans and highlight key single neuron,",
+            "field potential, and electrical stimulation studies. We summarize how single cell studies have by now",
+            "revealed several functional cell types including spatially tuned cells, concept cells, visually selective cells, and",
+            "memory selective cells that jointly provide cellular level insight into the architecture of human memory.",
+            "At the whole-brain level, we emphasize that inter-areal interactions mediated by oscillations are a critical",
+            "part of human memory, thereby highlighting the interaction of different memory, perceptual, and cognitive systems",
+            "in the service of memory."
+        ],
+        "date_published": "2024-04-06T01:00:09.586577",
+        "license": "563c1cf88c5e4a3877f9e965",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "human intracranial electrophysiology",
+            "human single neuron recording",
+            "memory",
+            "neuromodulation"
+        ]
+    },
+    {
+        "id": "5fb9q",
+        "title": "Prediction-Based False Memory: Predictions Alone Can Result in Robust False Memories",
+        "authors": [
+            "Bulatova, Olya",
+            "Fukuda, Keisuke"
+        ],
+        "abstract": [
+            "A growing body of literature suggests a powerful role of predictions on memory through prediction",
+            "violation and prediction confirmation. Violation appears to enhance memory for the event violating the prediction,",
+            "meanwhile, confirmation boosts memory for the predicted event instead. Crucially, however, the effect of prediction",
+            "by itself has not been identified as it has typically been studied with its violation",
+            "or confirmation. Here, we demonstrate the power of predictions on memory by isolating it from",
+            "its violation and confirmation. In a series of experiments, participants were presented with a real-world",
+            "object along with three characters and they predicted which character the object belonged to. Upon",
+            "prediction, participants received either visual confirmation (predicted character showing the item), visual rebuttal (another character",
+            "showing the item) or no feedback (none of the characters showing the item) with regard",
+            "to their prediction. When their memory was tested, participants were more likely to falsely remember",
+            "that their predicted character showed them the item than the other characters did, even when",
+            "no feedback was provided. This false memory was not eliminated by visual rebuttal and was",
+            "amplified when participants had a strong item memory. Experiments 2-4 eliminated action (selecting a predicted",
+            "character) as an alternative explanation and demonstrated that this prediction-based false memory could be modulated",
+            "through indirect prediction confirmation and violation. Taken together, our findings show that predictions alone are",
+            "sufficient to induce false memory of predicted events that are robust enough to withstand its",
+            "direct rebuttal."
+        ],
+        "date_published": "2024-04-05T18:36:13.843868",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "false memory",
+            "prediction",
+            "visual memory"
+        ]
+    },
+    {
+        "id": "gznfh",
+        "title": "Metacognitive awareness of memory distortion during recall",
+        "authors": [
+            "Kerren, Casper",
+            "Zhao, Yiming",
+            "Griffiths, Benjamin J"
+        ],
+        "abstract": [
+            "When we recall a past event, we reconstruct the event based on a combination of",
+            "episodic details and semantic knowledge (e.g., prototypes). Though prototypes can impair the veracity of recall,",
+            "it remains unclear whether we are metacognitively aware of the distortions they introduce. To address",
+            "this, we conducted six experiments in which participants learned object-colour/object-location pairs and subsequently recalled the",
+            "colour/location when cued with the object. Leveraging unsupervised machine learning algorithms, we extracted participant-specific prototypes",
+            "and embedded responses in two-dimensional space to quantify prototype-based distortions in individual memory traces. Our",
+            "findings reveal robust and conceptually replicable evidence to suggest that prototype-based distortion is accompanied by",
+            "a reduction in self-reported confidence - an implicit measure of metacognitive awareness. Critically, we find",
+            "evidence to suggest that it is prototype-based distortion of a memory trace that undermines confidence,",
+            "rather than a lack of confidence biasing reconstruction towards the use of prototypes. Collectively, these",
+            "findings suggest that we possess metacognitive awareness of distortions embedded in our memories."
+        ],
+        "date_published": "2024-04-05T14:39:54.338434",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "distortion",
+            "forgetting",
+            "memory",
+            "metacognition",
+            "prototypes"
+        ]
+    },
+    {
+        "id": "6zy9f",
+        "title": "Attentional Boost in Visual Working Memory? Concurrent Target Detection Enhances the Precision but Reduces the Retention Probability",
+        "authors": [
+            "Yamaguchi, Motonori",
+            "Liesefeld, Heinrich R",
+            "Fukuda, Keisuke"
+        ],
+        "abstract": [
+            "Dual-tasking causes mutual interference between the two tasks. As an exception to this rule, performance",
+            "in a memory task improves when participants perform a secondary task in which they detect",
+            "the presence of a memory-task-unrelated target stimulus. The phenomenon is termed the attentional boost effect.",
+            "A study using a change detection task has shown that attentional boost also occurs for",
+            "working memory. In three experiments using a continuous-report task, we examined which aspect of working",
+            "memory could be boosted by the concurrent target detection. In all experiments, the empirical measure",
+            "of working memory accuracy, angular error between the probed color and reported color, showed dual-task",
+            "interference, yielding less accurate memory when concurrent target detection was required than when it was",
+            "not. However, the mixture-model analysis indicated that concurrent target detection enhanced the memory precision but",
+            "reduced the probability of memory retention (i.e., increased random guessing) when the single-task and dual-task",
+            "conditions were separated between blocks and when participants reported the presence of the target immediately",
+            "as they detected it. These results suggest that differential proactive strategies to adjust working memory",
+            "resources is responsible for the trade-off between the memory precision and retention probability and that",
+            "attentional boost arises from an effort to minimize dual-task interference when the need of concurrent",
+            "target detection can be expected in advance. The findings provide new insights into the paradoxical",
+            "improvement of memory under a dual-task setting."
+        ],
+        "date_published": "2024-04-05T08:06:27.039146",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": []
+    },
+    {
+        "id": "qt3f9",
+        "title": "Removal of Information from Working Memory: Time Course and Consequences",
+        "authors": [
+            "Li, Chenyu",
+            "Frischkorn, Gidon T",
+            "Oberauer, Klaus"
+        ],
+        "abstract": [
+            "Working memory updating is the process that replaces outdated content in working memory by new",
+            "content. This requires removing outdated information and encoding new information. It is still unclear whether",
+            "removal and encoding run sequentially or simultaneously. We explored this question in three experiments investigating",
+            "the time course of removal and encoding, and their consequences for the functioning of working",
+            "memory. The updating task we used involved three phases: the memory, the processing, and the",
+            "retrieval phase. Across four conditions we manipulated whether the processing phase involved encoding, removal, neither,",
+            "or both (i.e., updating). In Experiment 1 and 2, processing time was self-paced, and we",
+            "measured processing times in each condition. In Experiment 3, we measured accuracy as a function",
+            "of available processing time. After the processing, participants were asked to recall the final item",
+            "for each position in the retrieval phase. The results indicated that encoding and removal are",
+            "concurrent processes during updating, because updating did not take longer than either of its component",
+            "processes. Additionally, we analyzed the proportion of correct responses and of different error types with",
+            "a memory measurement model to investigate the effects of encoding and removal for information held",
+            "in working memory. The analysis revealed that removal involves unbinding the outdated information from its",
+            "context. However, despite the weakened bindings of information to its initial context, the outdated information",
+            "still remains activated in working memory. Other information held in working memory benefitted little from",
+            "removal of outdated information."
+        ],
+        "date_published": "2024-04-02T16:49:36.597487",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "Memory Measurement Model",
+            "Removal",
+            "Updating",
+            "Working Memory"
+        ]
+    },
+    {
+        "id": "d7a6j",
+        "title": "Is working memory domain-general or domain-specific? Implications for theory and practice",
+        "authors": [
+            "Nozari, Nazbanou",
+            "Martin, Randi"
+        ],
+        "abstract": [
+            "Given the widely accepted role of working memory (WM) in human cognition across tasks and",
+            "domains, a central question has been, Is WM domain general? However, the term \"domain-general\" has",
+            "been used in different, and sometimes misleading, ways. By reviewing recent evidence and biologically plausible",
+            "models of WM, we show that the level of domain-generality varies substantially between three facets",
+            "of WM: in terms of principles of processing, WM is largely domain-general. In terms of",
+            "neural correlates, it contains both domain-general and domain-specific elements. Finally, in terms of application, it",
+            "is mostly domain-specific. This variance encourages a focus shift towards uncovering domain-general principles and away",
+            "from domain-general approaches to WM training, favoring newer perspectives, such as training-as-skill-learning, for the latter."
+        ],
+        "date_published": "2024-04-02T14:13:41.555075",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "brain training",
+            "domain-generality",
+            "neural correlates",
+            "resource models",
+            "Working memory"
+        ]
+    },
+    {
+        "id": "48wj6",
+        "title": "The effects of linear order in category learning: Some replications of Ramscar et al., (2010) and their implications for replicating training studies",
+        "authors": [
+            "Viviani, Eva",
+            "Ramscar, Michael",
+            "Wonnacott, Elizabeth"
+        ],
+        "abstract": [
+            "Ramscar, Yarlett, Dye, Denny and Thorpe (2010) showed how, consis- tent with the predictions of",
+            "error-driven learning models, the order in which stimuli are presented in training can affect category",
+            "learning. Specifically, learners exposed to artificial language input where objects preceded their labels learned the",
+            "discriminating features of categories better than learners exposed to input where labels preceded objects. We",
+            "sought to replicate this finding in two online experiments employing the same tests used originally:",
+            "A four pictures test (match a label to one of four pictures) and a four",
+            "labels test (match a picture to one of four labels). In our study, only findings",
+            "from the four pictures test were consistent with the original result. Additionally, the effect sizes",
+            "observed were smaller, and participants over-generalized high- frequency category labels more than in the original",
+            "study. We suggest that although Ramscar et al. [2010] feature-label order predictions were derived from",
+            "error-driven learning, they failed to consider that this mechanism also predicts that perfomance in any",
+            "training paradigm must inevitably be influ- enced by participant prior experience. We consider our findings",
+            "in light of these factors, and discuss implications for the generalizability and replication of training",
+            "studies."
+        ],
+        "date_published": "2024-04-02T11:07:56.430213",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "discriminative learning",
+            "language learning",
+            "replication"
+        ]
+    },
+    {
+        "id": "pvbj7",
+        "title": "Fluid intelligence correlates with working memory capacity for both real-world objects and simple-feature stimuli",
+        "authors": [
+            "Chung, Yong H",
+            "Shlipak, Kaira",
+            "Stormer, Viola S"
+        ],
+        "abstract": [
+            "Previous research has shown that individual differences in visual working memory performance strongly correlate with",
+            "measures of fluid intelligence. In these studies, visual working memory was assessed using simple feature",
+            "stimuli, such as oriented lines or colored squares, as traditionally done. However, recent studies have",
+            "shown that working memory performance is higher for meaningful stimuli (i.e., real-world objects) relative to",
+            "simple features. How does working memory capacity for real-world objects relate to fluid intelligence? To",
+            "test this, participants (103 young adults) completed different visual working memory tasks that used images",
+            "of real-world objects or simple colored circles as well as a fluid and crystallized intelligence",
+            "test. The results showed reliable correlations between all working memory tasks and fluid intelligence scores,",
+            "and no significant differences between these correlations across stimulus types. Working memory performance was not",
+            "reliably correlated with crystallized intelligence in any of the tasks. Collectively, these findings suggest that",
+            "maintaining real-world objects and colored circles rely on shared cognitive processes that may, in part,",
+            "underlie individual differences in fluid intelligence."
+        ],
+        "date_published": "2024-04-01T21:24:54.417916",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "Crystallized intelligence",
+            "Fluid intelligence",
+            "Individual differences",
+            "Real-world objects",
+            "Visual working memory",
+            "Working memory capacity"
+        ]
+    },
+    {
+        "id": "2gvr9",
+        "title": "Working Memory and Attentional Control Abilities Predict Individual Differences in Visual Long-Term Memory Tasks",
+        "authors": [
+            "Zhao, Chong",
+            "Vogel, Edward K"
+        ],
+        "abstract": [
+            "Working memory abilities predict various cognitive abilities, such as gF and source memory, suggesting that",
+            "these cognitive processes relied on working memory and attentional control resources. When attentional resources were",
+            "occupied by a secondary task, previous research showed that source memory performance was less impaired",
+            "than recognition memory, implying that working memory abilities would not influence, or at least exerted",
+            "much less influence on recognition memory performance than source memory performance. Here, we directly tested",
+            "if working memory and attentional control differences predict visual recognition memory performance across four experiments",
+            "(n = 841 in total). Surprisingly, we found that working memory and attentional control predicted",
+            "source nearly always predicted recognition memory performance as robust as source memory (Exp 1, 3",
+            "and 4), except when rapid presentation rate overflowed working memory capacities (Exp 2), refuting our",
+            "earlier hypothesis. Additionally, source memory and recognition memory, despite of different presentation rates across experiments,",
+            "remained highly correlated across individuals. Our findings suggested that visual long-term memory generally required working",
+            "memory and attentional control resources."
+        ],
+        "date_published": "2024-04-01T14:40:47.749647",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": []
+    },
+    {
+        "id": "vsxka",
+        "title": "Lack of attention shift cost for features in visual working memory",
+        "authors": [
+            "Liu, Ruyi",
+            "Guo, Lijing",
+            "Lin, Xiaoshu",
+            "Nie, Dan",
+            "Astikainen, Piia",
+            "Ye, Chaoxiong"
+        ],
+        "abstract": [
+            "Attention guides flexibly allocation of limited visual working memory (VWM) resources among representations. Within the",
+            "maintenance phase of VWM, previous researchers presented retro-cues orienting to a probed feature across all",
+            "multifeature stimuli and found a stable feature-based retro-cue benefit: VWM performance for cued feature was",
+            "better than no/neutral-cue baseline. Two accounts might explain the mechanism: the reconstruction account suggests for",
+            "separation of integrated representations, weighting on focused feature representations and removing unfocused ones; nevertheless, the",
+            "priority account supports reservation and rehearsal of integrated representations with a ready state for follow-up",
+            "comparison on focused feature. One distinct point between these accounts is whether the unfocused feature",
+            "is impaired in VWM storage. In the current study, we used coloured, oriented bars as",
+            "memoranda and manipulated the number of retro-cues to investigate these accounts. Double-cue trials displayed two",
+            "sequential retro-cues orienting to different features. The single cue and the second cue in the",
+            "double-cue condition are valid. Experiment 1 adopted the change detection task and three cue type",
+            "conditions (no-cue, single-cue, double-cue); and in the subsequent two experiments, we elevated task difficulties and",
+            "decreased expectations on cue types respectively. Our results across three experiments showed a stable pattern:",
+            "VWM for the refocused feature in double-cue trials was better than no/neutral-cue baseline but was",
+            "not different from those for the focused feature in single-cue trials. These findings indicate the",
+            "lack of attention shift cost for features in VWM, which demonstrates that the unfocused feature",
+            "in VWM is not impaired, supporting for the priority account."
+        ],
+        "date_published": "2024-03-27T21:48:49.347141",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "feature-based attention",
+            "retro-cue benefit",
+            "visual working memory"
+        ]
+    },
+    {
+        "id": "qxkdj",
+        "title": "Can retrieval practice reduce test anxiety and increase self-efficacy for test taking in 10- to 11-year-olds from England?",
+        "authors": [
+            "Barsham, Helen",
+            "Ellefson, Michelle R"
+        ],
+        "abstract": [
+            "Retrieval practice is a low-stakes learning strategy that improves high-stakes test performance. However, educators are",
+            "concerned that repeated testing, regardless of the stakes, might increase test anxiety and reduce self-efficacy",
+            "(i.e., beliefs about test taking skills). In this study, we look at the influence of",
+            "a metacognitively supportive retrieval practice intervention on test anxiety and self-efficacy in Year 6 students",
+            "(ages 10-11 years) from England (N = 171). The intervention significantly reduced test anxiety and",
+            "increased self-efficacy for the most anxious students, with improvements on intrusive thoughts, autonomic reactions, but",
+            "not off-task behaviours. These findings indicate that metacognitively supported retrieval practice can improve student wellbeing",
+            "around test taking."
+        ],
+        "date_published": "2024-03-26T10:07:16.774923",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": []
+    },
+    {
+        "id": "fpq8y",
+        "title": "PROCEDURAL AND DECLARATIVE KNOWLEDGE SIMULTANEOUSLY CONTRIBUTE TO CATEGORY RESPONSE SELECTION",
+        "authors": [
+            "Kalra, Priya B",
+            "Batterink, Laura",
+            "Minda, John P"
+        ],
+        "abstract": [
+            "Skilled behaviour in real-world contexts often relies on a combination of both declarative and procedural",
+            "learning. However, precisely how declarative and procedural knowledge interact is not yet fully understood. Previous",
+            "findings have shown that procedural and declarative learning may interact or compete at the systems",
+            "level during encoding, consolidation, and retrieval, but beyond this, it is not known whether declarative",
+            "and procedural representations themselves interact. The goal of the current study is to investigate whether",
+            "procedural and declarative knowledge can contribute simultaneously to categorization response selection behavior. We designed a",
+            "stimulus set in which information learned by each system sometimes supports different responses, and created",
+            "trials in the test phase that are designed to maximize such divergence. Participants were instructed",
+            "to use a completely diagnostic, verbalizable, shape-based rule to categorize exemplars, receiving feedback after each",
+            "trial. However, unbeknownst to participants, the categories also differed probabilistically in their color distributions. Participants",
+            "used both color (learned procedurally) and shape (learned declaratively) to categorize exemplars, responding more quickly",
+            "when both sources indicated the same category judgement, and more slowly when they conflicted. Debriefing",
+            "confirmed participants were unaware of the color distributions. These results showing simultaneous trial-level contributions from",
+            "both declarative and procedural memory systems. Our findings represent a novel form of interaction between",
+            "the two systems and have implications for domains beyond the laboratory, such as decision-making and",
+            "classroom instruction."
+        ],
+        "date_published": "2024-03-22T20:55:34.698228",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": []
+    },
+    {
+        "id": "qpmh5",
+        "title": "The Nature of ROC Practices in Eyewitness Memory Research",
+        "authors": [
+            "Riesthuis, Paul",
+            "Otgaar, Henry"
+        ],
+        "abstract": [
+            "Eyewitness memory research has reformed police practices and policy and is sometimes relied upon in",
+            "legal proceedings. Due to the practical implications derived from this research, it is imperative to",
+            "evaluate how practical recommendations are postulated. To assess the practical relevance of research, effect sizes",
+            "and its interpretation play a pivotal role. In this study, we examined how the frequently",
+            "used effect size Area Under the Curve (AUC) obtained via Receiver Operating Characteristic (ROC) curves",
+            "are used and interpreted in eyewitness memory research. Via a systematic literature search, we identified",
+            "157 eyewitness memory related articles that conducted ROC curve analyses resulting in 1580 AUC values.",
+            "Approximately 90% of the studies relied on statistical significance to interpret the AUC values. This",
+            "practice can be problematic as the sample sizes in many studies were rather large which",
+            "can lead to statistically significant effects that are trivial. Also, more than half of the",
+            "studies did not report 95% CIs for their AUC values. Finally, power analyses were frequently",
+            "not conducted and if they were they were, they were oftentimes not reproducible. To improve",
+            "the practical inferences of eyewitness memory research, we highlight the need of establishing a smallest",
+            "effect size of interest, focusing on 95% CIs, and conducting reproducible power analyses."
+        ],
+        "date_published": "2024-03-19T15:02:55.887880",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "Area under the curve",
+            "Eyewitness memory",
+            "Receiver Operating Characteristic Curve"
+        ]
+    },
+    {
+        "id": "h3ywc",
+        "title": "Revisiting Novel Word Semantic Priming: The Role of Strategic Priming Mechanisms",
+        "authors": [
+            "Ball, Lewis",
+            "Brusini, Perrine",
+            "Bannard, Colin"
+        ],
+        "abstract": [
+            "While it has been proposed that new words are encoded in a qualitatively different way",
+            "from established words - in episodic rather than semantic memory -- such accounts are challenged",
+            "by the finding that newly-learnt words influence the processing of well-known word in semantic priming",
+            "tasks. This apparent contradiction might be due to differences in task design. Specifically, we hypothesised",
+            "that a large stimulus onset asynchrony (SOA) would allow the participant to engage strategic retrieval",
+            "and priming mechanisms to facilitate the recognition of a semantically related word, compared to a",
+            "shorter SOA which promotes more automatic processing. In Experiment 1, 60 participants learned 34 novel",
+            "words and their meanings which later served as primes for related/unrelated existing word targets in",
+            "a primed lexical decision task, with a 450ms SOA. There was no significant priming effect.",
+            "In Experiment 2, we increased the SOA to 1000ms, and found a significant priming effect",
+            "with novel words. A semantic priming effect with familiar words was found in Experiment 1",
+            "but not Experiment 2. We interpret these results as providing evidence for the idea that",
+            "new and existing words are represented differently, with the former encoded outside of conventional language",
+            "networks as they appear to rely predominantly on slow (strategic) mechanisms to prime related, existing",
+            "words."
+        ],
+        "date_published": "2024-03-19T10:54:42.823574",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "complimentary learning systems",
+            "lexical representation",
+            "semantic priming",
+            "strategic processing",
+            "word learning"
+        ]
+    },
+    {
+        "id": "qmbpx",
+        "title": "The Malleability of Memory of Emotion for First Dates",
+        "authors": [
+            "Patihis, Lawrence",
+            "Carter, Harry"
+        ],
+        "abstract": [
+            "Previous research found memories of emotions are malleable, and that extended to autobiographically important memories",
+            "of emotions. It was unclear whether this would generalize to memories of emotions towards former",
+            "date partners. In this experiment, we examine whether memories of emotion towards a first date",
+            "partner can be biased with changing cognitive appraisals. Participants were 201 UK residents of average",
+            "age 37. After randomly assigning participants to different writing prompt conditions to nudge their current",
+            "appraisals of their first-date-partner, we found subsequent recall of emotion was biased accordingly. Those reappraising",
+            "their partner in a downward direction remembered more negative emotion, including distress, compared to comparison",
+            "conditions. Reappraising downwards biased memories of how unsafe they felt on their first date, and",
+            "of feeling forced to do something. A few years after #MeToo, that these biases might",
+            "be important to take into account when people reappraise past dating experiences."
+        ],
+        "date_published": "2024-03-16T16:27:34.355248",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": []
+    },
+    {
+        "id": "vesmc",
+        "title": "Reappraising a Parent can Occur with Non-Suggestive Questions: Changing Emotions and Memories of Emotion",
+        "authors": [
+            "Patihis, Lawrence"
+        ],
+        "abstract": [
+            "Whether is it possible to reappraise parents in non-suggestive questions, and whether this has an",
+            "impact on emotions and memories is of interest in psychotherapy and legal cases. Past research",
+            "has shown reappraisals of past situations is associated with changes in memories of emotions. In",
+            "Patihis et al (2019) we showed memories of love could be affected by reappraisals, but",
+            "did not analyze that dataset on other memories of emotion. The current paper analyzes that",
+            "experimental dataset for the effect of reappraisals towards participants mothers on the emotions: happiness, interest,",
+            "sadness, and anger (and on memories of those emotions in childhood). Results show that emotions",
+            "were significantly changed by reappraisals, and this difference was sustained four weeks later. We found",
+            "memories of emotion were affected, especially memory of happiness in childhood, but to a lesser",
+            "degree compared to current emotions. This offer some confirmation of the cognitive appraisal view of",
+            "memories of emotions. A follow up experiment with pretest measures showed some similar patterns, but",
+            "with muted effects. Therapists and clients should be aware that non-suggestive prompts might lead to",
+            "reappraisals of parents, with knock on affects on emotions and memories. Whether this should be",
+            "part of informed consent in therapy is open to debate."
+        ],
+        "date_published": "2024-03-16T16:14:03.428074",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": []
+    },
+    {
+        "id": "wavmz",
+        "title": "Knowability predicts curiosity and learning",
+        "authors": [
+            "Recht, Samuel",
+            "Yeung, Nick"
+        ],
+        "abstract": [
+            "Curiosity - defined as the urge to know and understand - is a fundamental driver",
+            "of human cognition and behaviour throughout the lifespan. Distinct from the instrumental value of information",
+            "in helping to achieve a pre-defined goal, curiosity can be defined as an intrinsic taste",
+            "for information itself. Although existing research has suggested a role for curiosity in enhancing learning",
+            "outcomes, questions remain regarding the mechanisms underlying the curiosity-learning relationship. In the current work, we",
+            "explored the interplay between curiosity, confidence, and learning in relation to the perceived \"knowability\" of",
+            "information. Drawing on Loewenstein's information gap theory and the classical observation that curiosity is maximum",
+            "at intermediate states of knowledge, we propose that curiosity is influenced by the availability of",
+            "potential answers, reflecting the subjective perception of information's knowability. We conducted an online experiment using",
+            "trivia questions, wherein participants estimated the number of candidate answers they had in mind for",
+            "each question, reported their curiosity and confidence regarding the correct answer, and their surprise when",
+            "told it. Five days later they completed a memory test for those answers. Results indicate",
+            "that greater availability of candidate answers predicted heightened curiosity, moderate confidence, and enhanced memory retention.",
+            "This finding suggests that curiosity is not solely triggered by an information gap but also",
+            "by the perception that information is retrievable. Our study highlights the significance of subjective perceptions",
+            "of information accessibility in understanding curiosity and its impact on learning. These findings contribute to",
+            "the growing body of research elucidating the cognitive processes underpinning curiosity and its implications for",
+            "effective learning strategies."
+        ],
+        "date_published": "2024-03-15T19:58:31.090602",
+        "license": "563c1cf88c5e4a3877f9e96a",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "confidence",
+            "curiosity",
+            "learning",
+            "memory"
+        ]
+    },
+    {
+        "id": "h6t2p",
+        "title": "Image memorability depends on interference in memory",
+        "authors": [
+            "Morales-Calva, Fernanda",
+            "Velgekar, Aditi",
+            "Sekili, Michelle",
+            "Leal, Stephanie L"
+        ],
+        "abstract": [
+            "Some experiences are better remembered than others by most people. This inherent characteristic of an",
+            "event to be well remembered is known as memorability. Memorability has been typically measured by",
+            "performance on recognition memory tasks and is calculated as the proportion of participants who correctly",
+            "recognize a repeated item. However, it is unclear what drives certain experiences to be more",
+            "memorable than others and whether all aspects of an experience are better remembered. Lure discrimination",
+            "can capture more nuanced aspects of our memories by measuring our ability to discern similar",
+            "\"lure\" items that share overlapping features with items encountered previously. Interference across experiences is a",
+            "major barrier that our memory system must overcome, yet we do not know how interference",
+            "may impact the memorability of our experiences. Exploring this facet of memory can allow us",
+            "to parse what drives certain experiences to be memorable or forgettable. To this end, we",
+            "developed a memory task that varied image memorability and lure image similarity and measured both",
+            "target recognition - memory for repeated images, and lure discrimination - discrimination of similar lure",
+            "images. While effects of memorability were evident for target recognition, the impact of memorability on",
+            "lure discrimination depended on lure similarity, where higher levels of interference did not benefit from",
+            "memorability compared to lower levels of interference. Furthermore, these effects were time-dependent: memorability impacted memory",
+            "immediately, but not after longer time delays. These findings suggest that the concept of memorability",
+            "depends on how and when memory is measured."
+        ],
+        "date_published": "2024-03-14T17:07:57.859840",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Memory"
+        ],
+        "tags": [
+            "Interference",
+            "Memorability",
+            "Mnemonic Discrimination",
+            "Pattern Separation"
+        ]
+    }
+]

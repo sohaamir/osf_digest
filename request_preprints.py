@@ -10,6 +10,7 @@ from langdetect import detect
 import csv
 from transformers import BartTokenizer, BartForConditionalGeneration, pipeline
 import torch
+from dotenv import load_dotenv
 
 # Set up API endpoint and parameters
 osf_url = "https://api.osf.io/v2/preprints/"
@@ -17,7 +18,7 @@ disciplines = ['Psychiatry']
 data_folder = "data/json"
 csv_folder = "data/csv"
 
-# Retrieve the OSF_TOKEN environment variable - add token to the local environment if necessary
+# Retrieve the OSF_TOKEN environment variable
 osf_token = os.getenv("OSF_TOKEN")
 if not osf_token:
     raise ValueError("OSF_TOKEN environment variable not set")
@@ -25,7 +26,7 @@ if not osf_token:
 # Set up authentication header with your access token
 headers = {
     "Authorization": f"Bearer {osf_token}"
-} 
+}
 
 # Create the data folder if it doesn't exist
 os.makedirs(data_folder, exist_ok=True)
@@ -183,8 +184,11 @@ print(f"Saved CSV file to: {csv_filepath}")
 output_dir = "output/digests"
 os.makedirs(output_dir, exist_ok=True)
 
-# Set up Hugging Face authentication - remember to add token to the local environment if necessary
-os.environ["HF_TOKEN"] = os.getenv("HF_TOKEN")  # Get the token from the local environment
+# Set up Hugging Face authentication
+hf_token = os.getenv("HF_TOKEN")
+if not hf_token:
+    raise ValueError("HF_TOKEN environment variable not set")
+os.environ["HF_TOKEN"] = hf_token
 
 # Organize data by discipline
 discipline_data = {}

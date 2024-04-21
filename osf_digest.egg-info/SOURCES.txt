@@ -1,0 +1,9 @@
+setup.py
+cli/__init__.py
+cli/cli.py
+osf_digest.egg-info/PKG-INFO
+osf_digest.egg-info/SOURCES.txt
+osf_digest.egg-info/dependency_links.txt
+osf_digest.egg-info/entry_points.txt
+osf_digest.egg-info/requires.txt
+osf_digest.egg-info/top_level.txt

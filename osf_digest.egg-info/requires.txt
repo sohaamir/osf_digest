@@ -1,0 +1,7 @@
+requests
+tqdm
+unidecode
+langdetect
+transformers
+torch
+python-dotenv

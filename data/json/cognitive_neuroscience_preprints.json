@@ -1,1909 +1,295 @@
 [
     {
-        "id": "esf2c",
-        "title": "Methylphenidate enhances or impairs the cognitive control of Pavlovian bias depending on working memory capacity",
+        "id": "vjcb5",
+        "title": "Suicide ideation severity predicts reduced oculomotor avoidance of suicide-related stimuli",
         "authors": [
-            "Geurts, Dirk",
-            "Ouden, Hanneke d",
-            "Swart, Jennifer C",
-            "Frobose, Monja I",
-            "Fallon, Sean J",
-            "Cook, Jennifer",
-            "Cools, Roshan"
+            "Sherifi, Emilia",
+            "Rowe, Megan",
+            "Armstrong, Thomas",
+            "Stewart, Jeremy G"
         ],
         "abstract": [
-            "Value-based decision-making is regulated by a delicate interplay of instrumental and Pavlovian controllers. Here we",
-            "assessed the role of catecholamines in this interplay. We investigated the effects of the catecholamine",
-            "reuptake inhibitor methylphenidate (MPH) in 100 healthy subjects using a combined appetitive and aversive Pavlovian",
-            "to instrumental transfer (PIT) paradigm including approach and withdrawal actions. By administering the drug after",
-            "learning, our design allowed us to establish that MPH can also bias action outside a",
-            "learning context by directly modulating the expression of motivational bias on instrumental action rather than",
-            "by only modulating instrumental learning bias. In line with previous results, the effect of MPH",
-            "on bias varied across individuals as a function of their working memory span capacity. By",
-            "assessing both approach and withdrawal actions, we revealed that MPH enhanced not only the invigorating",
-            "effect of appetitive Pavlovian cues on active approach, but also the inhibitory effect of appetitive",
-            "cues on active withdrawal, the invigorating effect of aversive cues on active withdrawal, and the",
-            "inhibitory effect of aversive cues on active approach. Thus, in participants with high working memory",
-            "capacity, MPH boosted both approach and withdrawal PIT. Taken together, this pattern of effects is",
-            "most consistent with the hypothesis that MPH modulates the cognitive control of Pavlovian biasing in",
-            "a baseline-state-dependent manner, in line with the well-established inverted-U shaped relationship between catecholamine receptor stimulation",
-            "in prefrontal cortex, and cognitive control."
+            "Introduction: Identifying variables linked to distinct suicide outcomes has long been among suicidology's research priorities.",
+            "Cognitive theories of suicide identify attentional processes that may vary for individuals at greater suicide",
+            "risk. However, an overreliance on self-report and objective measures that are poor estimates of attention",
+            "have led to mixed findings. Method: The current study utilizes eye-tracking with a novel passive",
+            "viewing task to explore differences in viewing patterns for suicide- and neutral-image pairings, as a",
+            "function of suicide outcomes. Young adults (N = 124, 83.9% women) were oversampled for recent",
+            "suicidal thoughts and behaviours and completed a series of self-report questionnaires specific to suicide history,",
+            "as well as relevant covariates prior to completing the eye-tracking task. Results: Multi-level modeling revealed",
+            "that individuals with low to moderate ratings of past year ideation displayed a significant decline",
+            "in the amount of time spent viewing suicide images as compared to neutral images over",
+            "the course of the task. However, this same pattern was not seen among individuals with",
+            "high suicide ideation, and specifically resolved plans and preparation, a subtype of suicide ideation. Furthermore,",
+            "no differences were found between people with and without a suicide attempt history. Conclusion: These",
+            "results suggest a suicide-specific disengagement bias among individuals high in suicide ideation, and more specifically",
+            "resolved plans and preparation."
         ],
-        "date_published": "2024-04-13T14:45:22.383596",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Active avoidance",
-            "Approach",
-            "bias",
-            "Catecholamine",
-            "Dopamine",
-            "Pavlovian to instrumental transfer",
-            "Withdrawal",
-            "Working memory"
-        ]
-    },
-    {
-        "id": "rvzxa",
-        "title": "Handbook: Distribution Functions (Verteilungs Funktionen).",
-        "authors": [
-            "Schrausser, Dietmar G"
-        ],
-        "abstract": [
-            "Summarizing presentation of the fundamentally most important distribution functions with distribution graphics and formulation. Examples",
-            "for the calculation in SCHRAUSSER-MAT syntax, as well as an extensive collection of formulas with",
-            "transformations according to parameters of interest in the appendix."
-        ],
-        "date_published": "2024-04-12T19:27:55.650023",
+        "date_published": "2024-04-19T19:29:02.223938",
         "license": "563c1cf88c5e4a3877f9e96a",
         "disciplines": [
             "Cognitive Neuroscience"
         ],
         "tags": [
-            "Asymptotic Statistics",
-            "Distribution Functions",
-            "Experimental Psychology",
-            "Mathematical Statistics",
-            "Permutationtests",
-            "Probability"
+            "attention",
+            "eye movements",
+            "eye tracking",
+            "resolved plans and preparation",
+            "suicidal ideation"
         ]
     },
     {
-        "id": "6qxdh",
-        "title": "Did you say brain or brave? Event-related potentials reveal the central role of phonological prediction in false hearing",
+        "id": "vk3gr",
+        "title": "An EEG-study on the extent to which partisanship conditions the processing of politicians' faces",
         "authors": [
-            "Silcox, Jack",
-            "Payne, Brennan"
+            "Jesus, Gustavo",
+            "Homan, Maaike",
+            "Petalas, Diamantis P",
+            "Bakker, Bert N",
+            "Bathelt, Joe",
+            "Schumacher, Gijs"
         ],
         "abstract": [
-            "Relying on predictions can help listeners better comprehend acoustically challenging speech. However, when the speech",
-            "signal does not match what is predicted, a listener can occasionally experience false hearing (e.g.,",
-            "hearing the word \"brain\" when \"brave\" was presented). In the current paper, we report two",
-            "event-related brain potential (ERP) experiments to examine the time-course of false hearing. Target words of",
-            "three types--semantically congruent/predictable words, semantically incongruent baseline words, or semantically incongruent phonological lures--were presented either",
-            "in a cue-target pair (Exp. 1) or in a lexically constraining sentence context (Exp. 2).",
-            "Phonological lures and incongruent baseline words were equally semantically incongruent but phonological lures shared a",
-            "similar phonological onset with congruent words. Across both experiments, participants routinely experienced false hearing, reporting",
-            "the congruent word when the phonological lure was presented. In both experiments, we saw that",
-            "the N400 to words that would go on to be falsely heard more closely resembled",
-            "the response to congruent words than to correctly identified phonological lures. Additionally, the N400 response",
-            "to correctly identified phonological lures was significantly delayed compared to the response to incongruent words",
-            "that shared no phonological relation to congruent words, suggesting the listeners engaged in phonological prediction.",
-            "Altogether, the findings from the current study provide evidence that listeners' engagement in phonological prediction",
-            "can, in some cases, lead to misperception."
+            "Partisanship has been associated with various cognitive biases. These findings are primarily based on self-reports",
+            "and task performance and less on measures of neural activity. We build on the related",
+            "literature on in-group/out-group dynamics that employs a face-viewing paradigm and electroencephalography methods to analyze biases.",
+            "Reviewing this literature, we developed and preregistered several hypotheses about the extent to which partisanship",
+            "is associated with neural processing of political faces. Our lab experiment was conducted in the",
+            "Netherlands (N=51) and sufficiently-powered to pick up modest effect sizes for in-party/out-party comparisons. As preregistered,",
+            "we find that faces of political leaders elicit a stronger N170 ERP response than faces",
+            "of strangers, but we did not find the same pattern for the N250 component. Also",
+            "contrary to our preregistered hypotheses, we find no statistically significant differences in the P200 and",
+            "N200 components between in-party and out-party leader faces. The strength of partisanship also did not",
+            "correlate with P200 or N200. We discuss whether different interpretations of these signals (e.g. familiarity",
+            "or affective processing) guide our theories about how partisan bias emerges and operates."
         ],
-        "date_published": "2024-04-13T13:54:00.984686",
-        "license": "563c1cf88c5e4a3877f9e965",
+        "date_published": "2024-04-17T18:37:03.747440",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Cognitive Neuroscience"
+        ],
+        "tags": [
+            "Electroencephalography",
+            "Event-Related Potentials",
+            "Face-viewing Paradigm",
+            "Partisanship",
+            "Politician"
+        ]
+    },
+    {
+        "id": "8b3wq",
+        "title": "Increases in EEG Alpha Power and Beta Power Following a VR Psychedelic Journey",
+        "authors": [
+            "Mattek, Sonny"
+        ],
+        "abstract": [
+            "Virtual reality (VR) is an emerging tool that has been shown to induce experiences similar",
+            "to psychedelics. In this report, we measure brain activity using electroencephalography (EEG) before and after",
+            "a novel VR experience. This Inner State VR experience was designed as a drugless psychedelic",
+            "journey that mimics a microdosing experience, to create the opportunity of participating in a psychedelic",
+            "journey without consumption of a substance. We found the post-VR brain activity showed increases in",
+            "power in the alpha and beta frequency ranges, compared to pre- VR. We relate these",
+            "data to existing literature to hypothesize how VR could be a useful tool for creativity",
+            "and focus, which is consistent with anecdotal use cases of psychedelic microdosing."
+        ],
+        "date_published": "2024-04-16T21:07:14.928032",
+        "license": "563c1cf88c5e4a3877f9e96c",
         "disciplines": [
             "Cognitive Neuroscience"
         ],
         "tags": []
     },
     {
-        "id": "hxe6p",
-        "title": "Dual Effects of Dual-Tasking on Instrumental Learning",
+        "id": "avyph",
+        "title": "Metacognitive biases in anxious-depression and compulsivity extend across perception and memory",
         "authors": [
-            "Ham, Huang",
-            "McDougle, Samuel D",
-            "Collins, Anne"
+            "Seow, Tricia X F",
+            "Fleming, Stephen M",
+            "Hauser, Tobias U"
         ],
         "abstract": [
-            "How automatic is reinforcement learning (RL)? Here, using a recent computational framework that separates contributions",
-            "from working memory versus RL during instrumental learning, we asked if taxing higher executive functions",
-            "influences a putatively lower-level, procedural RL system. Across three experiments, we found that dual tasking",
-            "could indeed disrupt RL, even when isolating RL from working memory contributions to behavior. These",
-            "results speak to methodological considerations in the use of dual tasks during learning, suggesting that",
-            "such tasks can interfere with multiple learning and memory systems simultaneously. Moreover, our results point",
-            "to a less constrained conception of RL as a low-level procedural system, supporting a view",
-            "that tight links exist between executive function and subcortical learning processes."
+            "Metacognitive biases are characteristic of common mental health disorders like depression and obsessive-compulsive disorder (OCD).",
+            "However, recent transdiagnostic approaches consistently contradict traditional clinical studies, with overconfidence in perception among highly",
+            "compulsive individuals versus underconfident memory in OCD patients. To reconcile these differences, we investigated whether",
+            "these metacognitive divergences arise due to cognitive domain-specific effects, comorbid overshadowing effects, and/or different manifestations",
+            "at disparate levels of a metacognitive hierarchy. Using a transdiagnostic individual differences approach (N=327), we",
+            "quantified metacognitive patterns across memory and perception. Across cognitive domains, we found that underconfidence was",
+            "linked to anxious-depression and overconfidence was linked to compulsivity. These associations varied across the confidence",
+            "hierarchy, with anxious-depression being predominantly explained by global low self-esteem, whereas compulsivity exhibited more specific",
+            "alterations at lower metacognitive levels. Our results support a domain-general alteration of metacognition in psychopathology,",
+            "with differential contributions from distinct levels of a metacognitive hierarchy, akin to an overshadowing effect."
         ],
-        "date_published": "2024-04-11T14:53:43.550421",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Computational modeling",
-            "Dual-Tasks",
-            "Executive control",
-            "Reinforcement learning",
-            "Working memory"
-        ]
-    },
-    {
-        "id": "cjt74",
-        "title": "Unexpected sounds induce a rapid inhibition of eye-movement responses",
-        "authors": [
-            "Vasilev, Martin R",
-            "Ozkan, Zeynep G",
-            "Kirkby, Julie A",
-            "Nuthmann, Antje",
-            "Parmentier, Fabrice B R"
-        ],
-        "abstract": [
-            "Unexpected sounds have been shown to trigger a global and transient inhibition of motor responses.",
-            "Recent evidence suggests that the movement of the eyes may also be inhibited in a",
-            "similar way, but it is not clear how quickly unexpected sounds can affect eye-movement responses.",
-            "Additionally, little is known about whether they affect only voluntary saccades or also reflexive saccades.",
-            "In this study, participants performed a pro-saccade and an anti-saccade task while the timing of",
-            "sounds relative to stimulus onset was manipulated. Pro-saccades are generally reflexive and stimulus-driven, whereas anti-saccades",
-            "require the generation of a voluntary saccade in the opposite direction of a peripheral stimulus.",
-            "Unexpected novel sounds inhibited the execution of both pro- and anti-saccades compared to standard sounds,",
-            "but the inhibition was stronger for anti-saccades. The timeline of the novelty distraction effect was",
-            "relatively stable- it was observed from 150 ms before target onset to 25ms after target",
-            "onset. Interestingly, unexpected sounds also reduced anti-saccade task errors, indicating that they aided inhibitory control.",
-            "Overall, these results suggest that unexpected sounds yield a global and rapid inhibition of eye-movement",
-            "responses. This inhibition also helps suppress reflexive eye-movement responses in favour of more voluntarily-generated ones."
-        ],
-        "date_published": "2024-04-11T11:38:00.925413",
+        "date_published": "2024-04-16T14:33:41.234218",
         "license": "563c1cf88c5e4a3877f9e96a",
         "disciplines": [
             "Cognitive Neuroscience"
         ],
         "tags": [
-            "anti-saccade",
-            "eye-movements",
-            "inhibition",
-            "motor control",
-            "novelty distraction",
-            "pro-saccade",
-            "saccades"
+            "Anxious-depression",
+            "Compulsivity",
+            "Confidence",
+            "Memory",
+            "Mental Health",
+            "Metacognition",
+            "Perception",
+            "Psychiatry",
+            "Transdiagnostic"
         ]
     },
     {
-        "id": "udyjw",
-        "title": "\"Invisible Dangers\": preconscious detection of fearful vs angry faces influences the subjective experience of anger",
+        "id": "8krj5",
+        "title": "Not Simply Two Sides of the Same Coin: Target Enhancement and Distractor Suppression Draw on Independent Neural Mechanisms",
         "authors": [
-            "Pelliet, Anna",
-            "Nogueira, Marlene",
-            "Fagundes, Catarina",
-            "Capela, Susana",
-            "Saraiva, Fatima",
-            "Pulcu, Erdem",
-            "Murphy, Susannah E",
-            "harmer, catherine",
-            "Capitao, Liliana"
+            "Khodayari, Natalia",
+            "Egeth, Howard",
+            "courtney, susan"
         ],
         "abstract": [
-            "Anger can profoundly disrupt psychological and social well-being when experienced intensely. Yet, our understanding of",
-            "the cognitive mechanisms (both conscious and preconscious) underlying anger and their connection to subjective experience",
-            "remains limited. This preliminary study investigated the relationship between preconscious detection of angry faces (vs",
-            "happy and fear) and the subjective experience of anger. Thirty participants were administered a robust",
-            "measure of preconscious processing - Continuous Flash Suppression -, followed by an anger induction protocol.",
-            "Results showed a significantly quicker detection of fearful than happy faces and a trend for",
-            "a faster anger detection over happiness, aligning with prior research suggesting a preconscious prioritization of",
-            "threat stimuli. Our protocol was effective in eliciting subjective anger, but no significant association emerged",
-            "between detection of angry faces and state anger symptoms following the anger induction. Interestingly, however,",
-            "participants showing faster detection of fear relative to anger displayed increased state anger post-induction. This",
-            "finding suggests that a preferential detection of fearful vs slower detection of angry faces could",
-            "ultimately contribute to an increased predisposition to experience anger following an anger-inducing event, hence shedding",
-            "light on the early cognitive mechanisms influencing subjective emotional experiences. Future work is needed to",
-            "further explore this effect."
+            "Enhancement and suppression have traditionally been described as a shared process; enhancing relevant information subsequently",
+            "suppresses irrelevant information, but there may also exist separable mechanisms. Recent evidence indicates that target",
+            "enhancement and distractor suppression can be measured separately, using both behavioral and physiological approaches. It",
+            "is unclear, however, whether the underlying mechanisms are also separable. We used an individual differences",
+            "approach to investigate whether enhancement and suppression strengths vary independently across individuals, which would provide",
+            "strong evidence supporting the existence of separate mechanisms. This approach, however, requires dissociable, internally-reliable individual-difference",
+            "measures. We found reliable enhancement measures for both endogenous cueing effects (Experiment 1) and statistical",
+            "learning effects of target location frequency (Experiment 2). Measures of suppression in Experiments 1 and",
+            "2 were unreliable. In Experiment 3, we encouraged a single strategy (\"singleton-search mode\") by changing",
+            "the colors and shapes of targets and distractors across trials. We found reliable individual differences",
+            "in reaction time measures for enhancement and suppression. Critically, these reliable measures of enhancement and",
+            "suppression did not covary. Experiment 4 largely replicated the results of Experiment 3. Again, individual-difference",
+            "measures of enhancement and suppression strength did not covary. These results show a clear dissociation:",
+            "while enhancement yields reliable individual differences across task manipulations, suppression measures are usually unreliable and",
+            "sensitive to task parameters. When individual-difference measures of both enhancement and suppression are reliable, they",
+            "do not covary. These results cannot be explained solely by a shared-mechanism account of enhancement",
+            "and suppression, and instead support the hypothesis that independent enhancement and suppression mechanisms exist."
         ],
-        "date_published": "2024-04-11T10:57:52.515611",
-        "license": "563c1cf88c5e4a3877f9e965",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": []
-    },
-    {
-        "id": "2743v",
-        "title": "Understanding Vision",
-        "authors": [
-            "Purves, Dale, M.D."
-        ],
-        "abstract": [
-            "Vision can be thought of in two fundamentally different ways: 1) that what we see",
-            "is determined by visual system circuitry evolved to detect and represent object features and conditions",
-            "in the physical world; or 2) that what we see is determined empirically by neural",
-            "associations based on the relative success of trial and error behavior accumulated over evolutionary and",
-            "individual time. The evidence reviewed here is indicates that the qualities we perceive are based",
-            "on the frequency of occurrence of stimuli. How and why this empirical scheme underlies vision",
-            "is discussed."
-        ],
-        "date_published": "2024-04-10T14:45:30.381760",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "color",
-            "geometry",
-            "ligtness",
-            "motion",
-            "vision"
-        ]
-    },
-    {
-        "id": "knjfw",
-        "title": "Decoupling Measurements and Processes: On the Epiphenomenon Debate Surrounding Brain Oscillations in Field Potentials",
-        "authors": [
-            "van Bree, Sander",
-            "Levenstein, Daniel",
-            "Krause, Matthew",
-            "Voytek, Bradley",
-            "Gao, Richard"
-        ],
-        "abstract": [
-            "Various theories in neuroscience maintain that brain oscillations have an important role in neuronal computation,",
-            "but opposing views claim that these macroscale dynamics are \"exhaust fumes\" of more relevant processes.",
-            "Here, we argue that the question of whether oscillations are epiphenomenal is ill-defined and cannot",
-            "be productively resolved without further refinement. Toward that end, we outline a conceptual framework that",
-            "clarifies the dispute along two axes: first, we introduce a distinction between measurement and process",
-            "to categorize the theoretical status of electrophysiology terms such as local field potentials and oscillations.",
-            "Second, we consider the relationships between these disambiguated terms, evaluating based on experimental and computational",
-            "evidence whether there exist causal or inferentially useful links between them. This decomposes the question",
-            "of epiphenomenalism into a set of empirically tractable alternatives. Finally, we demarcate oscillations as a",
-            "conceptually distinct entity where either processes or measurements exhibit periodic behavior, and we suggest that",
-            "oscillatory processes orchestrate neural computation by implementing a temporal, spatial, and frequency syntax. Overall, our",
-            "reframed evaluation supports the view that electric fields--oscillating or not--are causally relevant, and that their",
-            "associated signals are informative. More broadly, we offer a vocabulary and starting point for scientific",
-            "exchanges on the role and utility of brain signals and the biological processes they capture."
-        ],
-        "date_published": "2024-04-09T16:46:00.051071",
+        "date_published": "2024-04-16T01:35:41.903147",
         "license": "563c1cf88c5e4a3877f9e96a",
         "disciplines": [
             "Cognitive Neuroscience"
         ],
         "tags": [
-            "causality",
-            "conceptual analysis",
-            "electrophysiology",
-            "local field potential",
-            "measurement",
-            "neural oscillations",
-            "process"
-        ]
-    },
-    {
-        "id": "57wzm",
-        "title": "Human Single Neuron Recordings",
-        "authors": [
-            "Fu, Zhongzheng",
-            "Rutishauser, Ueli"
-        ],
-        "abstract": [
-            "This chapter describes the history and current state-of-the-art techniques of recording from single neurons in",
-            "humans. In collaboration with neurosurgeons and neurologists and while strictly adhering to ethical principles, this",
-            "technique allows the study of cognitive processes in humans at the cellular level. We describe",
-            "the settings within which single neuron data is commonly collected, ranging from epilepsy monitoring, deep",
-            "brain stimulation surgery and brain-machine interface clinical trials. We further review technological advancement that allow",
-            "simultaneous recordings of many neurons. The data collected offer unprecedented circuit-level insights into the neuronal",
-            "bases of human cognition and build a bridge between animal and human neuroscience. We conclude",
-            "by summarizing example findings that demonstrate the powerful scientific insights that can be revealed by",
-            "human single neuron recordings."
-        ],
-        "date_published": "2024-04-09T06:14:01.535618",
-        "license": "563c1cf88c5e4a3877f9e965",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "human",
-            "intracranial recordings",
-            "single neuron"
-        ]
-    },
-    {
-        "id": "3n5gh",
-        "title": "Abrupt Onsets in Visual Search: Foundations and Emerging Issues",
-        "authors": [
-            "Zhang, Han",
-            "York, A. K",
-            "Jonides, John"
-        ],
-        "abstract": [
-            "The study of attentional allocation due to external stimulation has a long history in psychology.",
-            "Since the early work by Yantis and Jonides, there has been a growing and consistent",
-            "interest in the effect of abrupt visual onsets on such attentional allocation. Yantis and Jonides",
-            "concluded that abrupt onsets constitute a possibly unique class of stimuli that captures attention in",
-            "a stimulus-driven fashion, unless attention is proactively directed elsewhere. Since then, the field of visual",
-            "search has evolved significantly. This article revisits the core conclusions by Yantis and Jonides in",
-            "light of subsequent evidence and highlights emerging issues for future investigation. We argue that perhaps",
-            "due to their strong potential to capture attention, abrupt onsets are often set aside as",
-            "a special case in pursuit of conditions that show attenuation of capture by other types",
-            "of distractors, such as color singletons. However, given their prevalence in real life, abrupt onsets",
-            "represent the exact type of stimuli that we need to study more to understand the",
-            "mechanisms of attentional guidance, including whether abrupt onsets can be suppressed. We also propose using",
-            "methods that more precisely measure the temporal and spatial dynamics of visual attention beyond making",
-            "binary judgments about whether attention is captured or not. We provide an example, the forced-response",
-            "method, that might be suitable for this endeavor."
-        ],
-        "date_published": "2024-04-09T02:30:19.019027",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Abrupt onset",
-            "attentional capture",
+            "attention",
             "distractor suppression",
-            "visual search"
+            "individual differences",
+            "mechanisms",
+            "reliability",
+            "target enhancement"
         ]
     },
     {
-        "id": "f2rvx",
-        "title": "ENIGMA-Meditation: Worldwide consortium for neuroscientific investigations of meditation practices",
+        "id": "vzusx",
+        "title": "Social learning in models and minds",
         "authors": [
-            "Ganesan, Saampras",
-            "Tsuchiyagaito, Aki",
-            "Siegle, Greg",
-            "goldin, philippe",
-            "Eyler, Lisa T",
-            "Treves, Isaac N",
-            "LUTZ, Antoine",
-            "Pagnoni, Giuseppe",
-            "Dagnino, Paulina C",
-            "Escrichs, Anira",
-            "Saccaro, Luigi F",
-            "Sacchet, Matthew D",
-            "Tripathi, Vaibhav",
-            "Batta, Ishaan",
-            "Prakash, Ruchika",
-            "Brown, Kirk W",
-            "Reggente, Nicco",
-            "Khalsa, Sahib S",
-            "McDermott, Timothy J",
-            "Valk, Sofie",
-            "Tang, Yi-Yuan",
-            "Fani, Negar",
-            "Deco, Gustavo",
-            "Garland, Eric",
-            "Calhoun, Vince D",
-            "Davanger, Svend",
-            "Piguet, Camille",
-            "Bauer, Clemens C",
-            "Barrios, Fernando A",
-            "Chetelat, Gael",
-            "Kirlic, Namik",
-            "Fresco, David M",
-            "Rahrig, Hadley",
-            "Torske, Alyssa",
-            "Kang, Yoona",
-            "Cain, Joshua",
-            "Farb, Norman A S",
-            "Garg, Rahul",
-            "Turner, Matthew D",
-            "Fialoke, Suruchi",
-            "Hafeman, Danella M",
-            "Dutcher, Janine M",
-            "Brewer, Judson A",
-            "Creswell, J. D",
-            "Braver, Todd S",
-            "Zeidan, Fadel",
-            "Vago, David R",
-            "Lazar, Sara",
-            "Davidson, Richard",
-            "Ching, Christopher R K",
-            "Jahanshad, Neda",
-            "Thomopoulos, Sophia I",
-            "Thompson, Paul",
-            "Zalesky, Andrew",
-            "Turner, Jessica",
-            "King, Anthony P"
+            "Yon, Daniel",
+            "heyes, cecilia"
         ],
         "abstract": [
-            "Meditation is a family of ancient and contemporary contemplative mind-body practices that can modulate psychological",
-            "processes, awareness, and mental states. Over the last 40 years, clinical science has manualised meditation",
-            "practices and designed various meditation interventions (MIs), that have shown therapeutic efficacy for disorders including",
-            "depression, pain, addiction, and anxiety. Over the past decade, neuroimaging has examined the neuroscientific basis",
-            "of meditation practices, effects, states, and outcomes for clinical and non-clinical populations. However, the generalizability",
-            "and replicability of current neuroscientific models of meditation are yet to be established, as they",
-            "are largely based on small datasets entrenched with heterogeneity along several domains of meditation (e.g.,",
-            "practice types, meditation experience, clinical disorder targeted), experimental design, and neuroimaging methods (e.g., preprocessing, analysis,",
-            "task-based, resting-state, structural MRI). These limitations have precluded a nuanced and rigorous neuroscientific phenotyping of",
-            "meditation practices and their potential benefits. Here, we present ENIGMA-Meditation, the first worldwide collaborative consortium",
-            "for neuroscientific investigations of meditation practices. ENIGMA-Meditation will enable systematic meta- and mega-analyses of globally",
-            "distributed neuroimaging datasets of meditation using shared, standardized neuroimaging methods and tools to improve statistical",
-            "power and generalizability. Through this powerful collaborative framework, existing neuroscientific accounts of meditation practices can",
-            "be extended to generate novel and rigorous neuroscientific insights, accounting for multi-domain heterogeneity. ENIGMA-Meditation will",
-            "inform neuroscientific mechanisms underlying therapeutic action of meditation practices on psychological and cognitive attributes, advancing",
-            "the field of meditation and contemplative neuroscience."
+            "After more than a century in which social learning was blackboxed by evolutionary biologists, psychologists",
+            "and economists, there is now a thriving industry in cognitive neuroscience producing computational models of",
+            "learning from and about other agents. This is a hugely positive development. The tools of",
+            "computational cognitive neuroscience are rigorous and precise. They have the potential to prise open the",
+            "black box. However, we argue that, from the perspective of a scientific realist, these tools",
+            "are not yet being applied in an optimal way. To fulfil their potential, the shiny",
+            "new methods of cognitive neuroscience need to be better coordinated with old-fashioned, contrastive experimental designs.",
+            "Inferences from model complexity to cognitive complexity, of the kind made by those who favour",
+            "lean interpretations of behaviour ('associationists'), require social learning to be tested in challenging task environments.",
+            "Inferences from cognitive complexity to social specificity, made by those who favour rich interpretations ('mentalists'),",
+            "call for non-social control experiments. A parsimonious model that fits current data is a good",
+            "start, but carefully designed experiments are needed to distinguish models that tell us how social",
+            "learning could be done from those that tell us how it is really done."
         ],
-        "date_published": "2024-04-08T11:52:16.604872",
+        "date_published": "2024-04-15T15:43:29.121340",
         "license": "563c1cf88c5e4a3877f9e96a",
         "disciplines": [
             "Cognitive Neuroscience"
         ],
         "tags": [
-            "Contemplative practices",
-            "ENIGMA-Meditation",
-            "Global collaboration",
-            "Meditation",
-            "Mind-body practices",
-            "Mindfulness interventions",
-            "MRI",
-            "Neuroimaging",
-            "Neuroscience",
-            "Review"
-        ]
-    },
-    {
-        "id": "8uq4t",
-        "title": "Lights on music cognition: a systematic and critical review of fNIRS applications and future perspectives",
-        "authors": [
-            "Curzel, Federico",
-            "Tillmann, Barbara",
-            "Ferreri, Laura"
-        ],
-        "abstract": [
-            "Research investigating the neural processes related to music perception and production constitutes a well-established field",
-            "within the cognitive neurosciences. While most neuroimaging tools have limitations in studying the complexity of",
-            "musical experiences, Functional Near-Infrared Spectroscopy (fNIRS) represents a promising, relatively new tool for studying music",
-            "processes in both laboratory and ecological settings, which is also suitable for both typical and",
-            "pathological populations across development. Here we systematically review fNIRS studies on music cognition, highlighting prospects",
-            "and potentialities. We also include an overview of fNIRS' basic theory, together with a brief",
-            "comparison to characteristics of other neuroimaging tools. Fifty-nine studies meeting inclusion criteria (i.e., using fNIRS",
-            "with music as the primary stimulus) are presented across five thematic sections. Critical discussion of",
-            "methodology leads to propose guidelines of good practices aiming for robust signal analyses and reproducibility.",
-            "A continuously updated world map with elemental information from studies meeting the inclusion criteria aims",
-            "to establish an organized, accessible, and updatable reference database, also facilitating future collaborations within the",
-            "community. In conclusion, fNIRS shows potential for investigating cognitive processes in music, in particular in",
-            "ecological contexts and with special populations, aligning with current research priorities in music cognition."
-        ],
-        "date_published": "2024-04-08T08:51:16.819662",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "ecological setting",
-            "fNIRS",
-            "music",
-            "music cognition",
-            "neuroimaging"
-        ]
-    },
-    {
-        "id": "qka72",
-        "title": "How we Learn Concepts: A Review of Relevant Advances Since 2010 and Its Inspirations for Teaching",
-        "authors": [
-            "Zhong, WANG"
-        ],
-        "abstract": [
-            "This article reviews the psychological and neuroscience achievements in concept learning since 2010 from the",
-            "perspectives of individual learning and social learning, and discusses several issues related to concept learning,",
-            "including the assistance of machine learning on this issue. 1. In terms of individual learning,",
-            "current evidence shows that the brain tends to process concrete concepts through typical features (shared",
-            "features); And abstract concepts, semantic processing is the most important cognitive way. In terms of",
-            "social learning, Interpersonal Neuro Synchronization (INS) is considered the main indicator of efficient knowledge transfer",
-            "(such as teaching activities between teachers and students), but this phenomenon only broadens the channels",
-            "for concept sources and does not change the basic mode of individual concept learning. Ultimately,",
-            "this article argues that the way the human brain processes concepts depends on their own",
-            "characteristics, so there are no \"better\" strategies in teaching, only more \"suitable\" strategies."
-        ],
-        "date_published": "2024-04-08T05:00:46.658032",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "abstract concept",
-            "concept learning",
-            "concrete concept",
-            "individual learning",
-            "INS",
+            "cognitive neuroscience",
+            "contrastive testing",
+            "domain-specificity",
+            "model complexity",
+            "scientific realism",
             "social learning"
         ]
     },
     {
-        "id": "jgrsv",
-        "title": "The Basic Structure of Consciousness in a Nutshell",
+        "id": "8d2mf",
+        "title": "Mathematized Phenomenology and the Science of Consciousness",
         "authors": [
-            "Sipfle, Karl"
+            "Prentner, Robert"
         ],
         "abstract": [
-            "This article gives a summary description of the most basic aspects of the make-up of",
-            "consciousness."
+            "In this contribution, we emphasize the relevance of mathematical approaches to the first-person perspective. We",
+            "briefly discuss why this is necessary and why mathematics plays a special role when it",
+            "comes to integrating scientific (empirical) and philosophical (theoretical) projects. We also sketch some potential ways",
+            "that mathematics could be used in phenomenology, based on a selection of four ``phenomenological primitives''",
+            "that characterize constitution: intentionality, minimal subjectivity, lifeworld, and time consciousness. We also spell out a",
+            "minimal topological toymodel and refer to some contemporary approaches using modern mathematics (e.g. category theory).",
+            "We then discuss how this could be usefully applied to the (neuro)scientific study of consciousness",
+            "and throughout stress the need to highlight (and formalize) phenomenology's transcendental character."
         ],
-        "date_published": "2024-04-07T19:52:24.657350",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "brain",
-            "consciousness",
-            "feeling",
-            "field",
-            "mind",
-            "physics"
-        ]
-    },
-    {
-        "id": "9ew4c",
-        "title": "Dynamic reconfigurations of brain subnetworks in alcohol use disorder or bulimia nervosa: A resting-state functional magnetic resonance imaging study",
-        "authors": [
-            "Leenaerts, Nicolas",
-            "Broeders, Tommy",
-            "ceccarini, jenny",
-            "Sunaert, Stefan",
-            "Schoonheim, Menno",
-            "Vinkers, Christiaan",
-            "Vrieze, Elske"
-        ],
-        "abstract": [
-            "Introduction: The brain forms a complex functional brain network. This network is dynamically reconfigured to",
-            "support various cognitive processes. Research on brain network dynamics in patients with alcohol use disorder",
-            "(AUD) or bulimia nervosa (BN), two highly comorbid psychiatric disorders, remains limited. Previous studies showed",
-            "altered static network patterns, highlighting that the network is disturbed, but implicitly ignoring network dynamics.",
-            "This study investigates dynamic network reconfigurations in female patients with AUD or BN and healthy",
-            "controls (HC). Methods: Resting-state functional MRI data were acquired of 102 female participants (AUD:27, BN:24,",
-            "HC:51). A sliding-window approach assigned brain regions iteratively to one of seven literature-based subnetworks for",
-            "each window. Then, previously validated parameters of network reconfiguration were assessed: promiscuity (number of subnetworks",
-            "switched to) and flexibility (number of switches). These measures were compared between groups and related",
-            "to behavioral and clinical measures. Results: Compared to HC, patients with BN displayed a higher",
-            "promiscuity of all brain subnetworks combined, and regionally for the dorsal attention network, with no",
-            "change in flexibility. Patients with AUD showed no difference in either promiscuity or flexibility. Global",
-            "and dorsal attention network promiscuity were negatively correlated with subjective stress. Conclusion: Regions typically assigned",
-            "to the dorsal attention network changed their association with a higher number of other subnetworks",
-            "in BN compared to HC, which was not seen in AUD. This suggests a less",
-            "focused dynamic integration of information in patients with BN, which could play a role in",
-            "their vulnerability to stress, attentional biases and impulsivity."
-        ],
-        "date_published": "2024-04-07T10:36:26.777873",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "1.\tBulimia nervosa",
-            "2.\tAlcohol use disorder",
-            "3.\tfMRI",
-            "4.\tDynamic functional connectivity",
-            "5.\tNetworks"
-        ]
-    },
-    {
-        "id": "t975e",
-        "title": "The Voxelwise Modeling framework: a tutorial introduction to fitting encoding models to fMRI data",
-        "authors": [
-            "Dupre la Tour, Tom",
-            "Visconti di Oleggio Castello, Matteo",
-            "Gallant, Jack L"
-        ],
-        "abstract": [
-            "Voxelwise modeling (VM) is a powerful framework for functionally mapping the brain. In the VM",
-            "framework, features are extracted from the stimulus (or task) and used in an encoding model",
-            "to predict brain activity. If the encoding model is able to predict brain activity in",
-            "some part of the brain, then one may conclude that some information represented in the",
-            "features is also encoded in the brain. In VM, a separate encoding model is fitted",
-            "on each spatial sample (i.e. each voxel). VM has many benefits compared to other methods",
-            "for analyzing and modeling neuroimaging data. Most importantly, VM can use large numbers of features",
-            "simultaneously, which enables the analysis of complex naturalistic stimuli and tasks. Therefore, VM can produce",
-            "high-dimensional functional maps that reflect the selectivity of each voxel to large numbers of features.",
-            "Moreover, because model performance is estimated on a separate test dataset not used during fitting,",
-            "VM minimizes overfitting and inflated Type I error confounds that plague other approaches, and the",
-            "results of VM generalize to new subjects and new stimuli. Despite these benefits, VM is",
-            "still not widely used in neuroimaging, partly because no tutorials on this method are available",
-            "currently. To demystify the VM framework and ease its dissemination, this paper presents a series",
-            "of hands-on tutorials accessible to novice practitioners. The VM tutorials are based on free open-",
-            "source tools and public datasets, and reproduce the analysis presented in previously published work."
-        ],
-        "date_published": "2024-04-06T23:58:41.988807",
+        "date_published": "2024-04-15T08:00:30.731986",
         "license": "563c1cf88c5e4a3877f9e96a",
         "disciplines": [
             "Cognitive Neuroscience"
         ],
         "tags": [
-            "encoding models",
-            "neuroimaging",
-            "python",
-            "tutorials"
+            "Constitution",
+            "intentionality",
+            "minimal subjectivity",
+            "neuroscience of consciousness",
+            "self/world-dichotomy",
+            "time consciousness"
         ]
     },
     {
-        "id": "ncp25",
-        "title": "The Enigma of Jhana and Implications for Neuroscience, Consciousness Studies and Research Methodology",
+        "id": "uhs3c",
+        "title": "Default mode network anti-correlation as a transdiagnostic biomarker of cognitive function",
         "authors": [
-            "Dennison, Paul"
+            "Tripathi, Vaibhav",
+            "Batta, Ishaan",
+            "Zamani, Andre",
+            "Atad, Daniel A",
+            "Sheth, Sneha K",
+            "Zhang, Jiahe",
+            "Wager, Tor",
+            "Whitfield-Gabrieli, Susan",
+            "Uddin, Lucina Q",
+            "Prakash, Ruchika",
+            "Bauer, Clemens C"
         ],
         "abstract": [
-            "Jhana meditation was little known in the West before the 1980s, historically shrouded in mystery",
-            "and mostly confined to monastic traditions in Buddhist countries. In recent years, however, deep states",
-            "of meditation in general, but particularly the jhanas, have been attracting interest from neuroscience researchers",
-            "as another avenue to explore neural networks and functions in the human brain. However, the",
-            "current state of knowledge of those networks is almost entirely related to their functions within",
-            "our default (sensory) consciousness, researched primarily via task-based studies. Given that in ancient Buddhist texts",
-            "jhana is regarded as a uniquely different mode of consciousness, not dependent on the cognitive",
-            "processes of sensory consciousness, such task-based research methods may not be the best approach to",
-            "unravel the significance and processes of jhana consciousness. This article explores the nature of jhana",
-            "consciousness in relation to our default consciousness, whether it has its place on a continuum",
-            "of \"altered states of consciousness\" (ASC), or whether it is a radically different and unique",
-            "state of consciousness. The subtleties of establishing jhana are explored, including the possibility of a",
-            "cognitively-driven \"facsimile\" experience created within the default neural networks of sensory consciousness, rather than a",
-            "radical disruption of those networks towards a previously unknown vertical brain-body axis as recently demonstrated",
-            "by EEG observations (Dennison, 2019)."
+            "The default mode network (DMN) is intricately linked with processes such as self-referential thinking, episodic",
+            "memory recall, self-projection, and understanding the mindset of others. Over recent years, there has been",
+            "a surge in examining its functional connectivity, particularly its antagonistic relationship with frontoparietal networks (FPN)",
+            "involved in top-down attention, executive function, and cognitive control. Notably, the DMN demonstrates an anti-correlated",
+            "connection with FPN and Dorsal Attention Network (DAN), leading to its deactivation when one's attention",
+            "is turned towards the external environment. The fluidity in switching between these internal and external",
+            "modes of processing--highlighted by this anti-correlated functional connectivity--has been proposed as an indicator of cognitive",
+            "health and mediated by salience networks (SAL). Due to the ease of the estimation of",
+            "functional connectivity-based measures through resting state fMRI paradigms, there is now a wealth of large-scale",
+            "datasets, paving the way for standardized connectivity benchmarks. This review delves into the promising role",
+            "of DMN connectivity metrics as potential biomarkers of cognitive state across attention, mind wandering and",
+            "meditation states, and investigating deviations in clinical conditions such as anxiety, depression, ADHD, PTSD and",
+            "others. Additionally, we tackle the issue of reliability of network estimation and functional connectivity and",
+            "share recommendations for using connectivity measures as a biomarker of cognitive health."
         ],
-        "date_published": "2024-04-08T14:44:47.202729",
+        "date_published": "2024-04-14T21:36:10.103736",
         "license": "563c1cf88c5e4a3877f9e96a",
         "disciplines": [
             "Cognitive Neuroscience"
         ],
         "tags": [
-            "Jhana; Consciousness; Neuroscience; Meditation; EEG; Facsimile Jhana; Buddhism"
-        ]
-    },
-    {
-        "id": "yusz7",
-        "title": "Interoceptive Ageing and the Impact on Psychophysiological Processes: A Systematic Review",
-        "authors": [
-            "Pfeifer, Gaby",
-            "Cawkwell, Sophie"
-        ],
-        "abstract": [
-            "Interoception, the perception and response to internal bodily states, significantly influences physical and mental wellbeing.",
-            "While ageing is associated with interoceptive decline, research has primarily examined selective dimensions of interoception.",
-            "Understanding these changes is vital as the global population ages, addressing age-related health issues and",
-            "sustaining psychological wellbeing. This systematic review synthesised findings from 22 studies on age-related interoceptive changes",
-            "and their impact on psychophysiological processes. Results showed age-related declines (48%), no age differences (33%),",
-            "an inverted U-shaped relationship (6%), and increases (9%) in interoceptive sensitivity across age groups and",
-            "interoceptive dimensions. Four patterns emerged regarding psychophysiological processes in older adults: weakened mind-body connection, altered",
-            "emotional experiences concerning arousal and positivity, cognitive protective effects, and improved body representation correlated with",
-            "better interoceptive sensitivity. These patterns indicate the complex relationships between interoceptive ageing and psychophysiological processes,",
-            "showing both, aspects of decline and compensatory mechanisms. We propose future research avenues to elucidate",
-            "the functional significance of different interoceptive dimensions across the lifespan for optimised psychological wellbeing and",
-            "health behaviours in older adults."
-        ],
-        "date_published": "2024-04-06T12:11:10.584873",
-        "license": "563c1cf88c5e4a3877f9e965",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "ageing",
-            "body representation",
-            "cognition",
-            "emotion",
-            "interoception",
-            "old adults"
-        ]
-    },
-    {
-        "id": "5rh2k",
-        "title": "Insights into neural basis of human memory derived from intracranial recordings",
-        "authors": [
-            "Zheng, Jie",
-            "Rutishauser, Ueli"
-        ],
-        "abstract": [
-            "Intracranial recordings offer unparalleled spatiotemporal resolution in the study of human memory. In this chapter,",
-            "we highlight key intracranial recording studies that have provided major new insights into the neural",
-            "mechanisms of spatial memory, working memory, episodic memory, and emotional memory. We discuss the clinical",
-            "scenarios that have been used to examine memory in humans and highlight key single neuron,",
-            "field potential, and electrical stimulation studies. We summarize how single cell studies have by now",
-            "revealed several functional cell types including spatially tuned cells, concept cells, visually selective cells, and",
-            "memory selective cells that jointly provide cellular level insight into the architecture of human memory.",
-            "At the whole-brain level, we emphasize that inter-areal interactions mediated by oscillations are a critical",
-            "part of human memory, thereby highlighting the interaction of different memory, perceptual, and cognitive systems",
-            "in the service of memory."
-        ],
-        "date_published": "2024-04-06T01:00:09.586577",
-        "license": "563c1cf88c5e4a3877f9e965",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "human intracranial electrophysiology",
-            "human single neuron recording",
-            "memory",
-            "neuromodulation"
-        ]
-    },
-    {
-        "id": "qh72t",
-        "title": "EEG decoding reveals task-dependent recoding of sensory information in working memory",
-        "authors": [
-            "Bae, Gi-Yeul",
-            "Chen, KuoWei"
-        ],
-        "abstract": [
-            "Working memory (WM) supports future behavior by retaining perceptual information obtained in the recent past.",
-            "The present study tested the hypothesis that WM recodes sensory information in a format that",
-            "better supports subsequent behavior. We recorded EEG while participants perform color delayed-estimation tasks where the",
-            "colorwheel for the response was either randomly rotated or held fixed across trials. Accordingly, observers",
-            "had to remember the exact colors in the Rotation condition, whereas they could remember the",
-            "colors based on their corresponding locations on the colorwheel in the No-Rotation condition. Results showed",
-            "that the color reports were faster and more precise in the No-Rotation condition even when",
-            "exactly the same set of colors were tested in both conditions. To investigate how the",
-            "color information was maintained in the brain, we decoded the color using a multivariate EEG",
-            "classification method. The decoding was limited to the stimulus encoding period in the Rotation condition,",
-            "whereas it continued to be significant during the maintenance period in the No-Rotation condition, indicating",
-            "that the color information was more actively maintained in the condition. Follow-up analyses suggested that",
-            "the prolonged decoding was not merely driven by the covert shift of attention but rather",
-            "by the recoding of sensory information into an action-oriented response format. Together, these results provide",
-            "converging evidence that WM flexibly recodes sensory information depending on the specific task context to",
-            "optimize subsequent behavioral performance."
-        ],
-        "date_published": "2024-04-05T23:20:36.361280",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "color decoding",
-            "EEG decoding",
-            "recoding",
-            "sensory recruitment",
-            "working memory"
-        ]
-    },
-    {
-        "id": "6nkbp",
-        "title": "Anticipating Multisensory Environments: Revealing Interactions in Predictions Across Sensory Modalities Unveils the Supra-modal Nature of the Predictive System",
-        "authors": [
-            "Sabio-Albert, Marc",
-            "Fuentemilla, Lluis",
-            "Perez, Alexis"
-        ],
-        "abstract": [
-            "Our experience is generally framed in multisensory environments abundant in predictive information. Accordingly, previous research",
-            "on statistical learning has shown that humans can learn regularities in different sensory modalities in",
-            "parallel, but left open the question of whether participants also anticipated multisensory inputs. Across two",
-            "experiments, we tested whether participants capitalized on prior expectations to facilitate perceptual processing of concurrent",
-            "but independent multisensory stimuli. Participants were exposed to concurrent pairs of auditory and visual low-level",
-            "stimuli (i.e., gratings and tones). In each experimental block, participants had to attend to one",
-            "modality and discriminate whether the second stimulus of the attended pairs (targets) were deviant or",
-            "standard, while ignoring stimuli from the other sensory modality (distractors). Orthogonal to the task goal,",
-            "both the attended and unattended pairs followed transitional probabilities, so targets and distractors could be",
-            "expected or unexpected. Participants performed better for expected compared to unexpected targets. This effect generalized",
-            "to the distractors but only when targets were expected. Such interactive effects suggest that predictions",
-            "may be gated by a supra-modal system with shared resources across sensory modalities that are",
-            "distributed according to their respective behavioral relevance."
-        ],
-        "date_published": "2024-04-05T16:38:28.775897",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": []
-    },
-    {
-        "id": "n6cqw",
-        "title": "Quantification choices for individual differences: An example of mapping self-report to psychophysiological responses",
-        "authors": [
-            "Morriss, Jayne",
-            "Biagi, Nicolo",
-            "Wake, Shannon J"
-        ],
-        "abstract": [
-            "A popular focus in affective neuroscience research has been to map the relationships between individual",
-            "differences (e.g. personality and environmental experiences) and psychophysiological responses, in order to further understand the",
-            "effect of individual differences upon neurobehavioral systems that support affect and arousal. Despite this trend,",
-            "there have been a lack of practical examples demonstrating how the quantification of individual differences",
-            "(e.g. categorical or continuous) impacts the observed relationships between different units of analysis (e.g. self-report",
-            "&gt; psychophysiological responses). To address this gap, we reanalyzed an existing data set of self-reported",
-            "intolerance of uncertainty (IU) and skin conductance responses during threat extinction (k = 18, n",
-            "= 1006) using different quantification choices for individual differences in self-reported intolerance of uncertainty (continuous,",
-            "categorical via median split, and categorical via extremes - one standard deviation above/below). Results from",
-            "the meta-analyses revealed that the different quantification techniques produced some consistent (e.g. higher IU was",
-            "significantly associated with skin conductance responding during late extinction training) and inconsistent IU-related effects. Furthermore,",
-            "the number of statistically significant effects and effect sizes varied based on the quantification of",
-            "individual differences in IU (e.g. categorical, compared to continuous was associated with more statistically significant",
-            "effects, and larger effect sizes). The current study highlights how conducting a multiverse analysis for",
-            "the quantification of individual differences may help researchers understand the individual difference construct of interest",
-            "(e.g. characterisation, measurement), as well as examine the stability and reliability of individual difference-based effects",
-            "and correspondence between various units of analysis."
-        ],
-        "date_published": "2024-04-05T12:36:13.322460",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Individual differences",
-            "Intolerance of uncertainty",
-            "Multiverse analysis",
-            "Psychophysiology",
-            "Threat extinction",
-            "Trait anxiety"
-        ]
-    },
-    {
-        "id": "47dnt",
-        "title": "Texture perception at the foot sole: Comparison between walking, sitting, and to the hand",
-        "authors": [
-            "Cleland, Luke D",
-            "Rupani, Mia",
-            "Blaise, Celia",
-            "Ellmers, Toby J",
-            "Saal, Hannes"
-        ],
-        "abstract": [
-            "In everyday life, we frequently interact with textured surfaces with both our feet and our",
-            "hands. Similar to texture's importance for grasping, texture perception via the foot sole might provide",
-            "important signals about the stability of a surface, aiding in maintaining balance. However, how textures",
-            "are perceived by the foot, and especially under the high force loads experienced during walking,",
-            "is unknown. The current study builds on extensive research investigating texture perception at the hand",
-            "by presenting natural textures to the foot during walking and sitting, and presenting the same",
-            "textures to the hand. Participants rated each texture along three perceptual dimensions: roughness, hardness, and",
-            "stickiness. Participants also rated how stable their posture felt when standing upon each texture. Results",
-            "show that perceptual ratings of each textural dimension were highly correlated across conditions. Hardness exhibited",
-            "the greatest consistency and stickiness the weakest. Moreover, correlations between walking and sitting were lower",
-            "than those between sitting and the hand, demonstrating that mode of interaction (high vs low",
-            "force) had a greater impact on perception than body region used (foot vs hand). On",
-            "an individual level, correlations between conditions were higher than those between participants, suggesting that differences",
-            "are greater between individuals than between mode of interaction or body region. When investigating the",
-            "relationship to perceived stability, only hardness contributed significantly, with harder surfaces rated as more stable.",
-            "Overall, tactile perception appears consistent between body region and mode of interaction, although differences in",
-            "perception are greater when interacting with textures during walking."
-        ],
-        "date_published": "2024-04-05T10:12:17.679264",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Foot",
-            "Psychophysics",
-            "Texture",
-            "Touch"
-        ]
-    },
-    {
-        "id": "u9q2d",
-        "title": "Dancing robots: Aesthetic engagement is shaped by stimulus and knowledge cues to human animacy",
-        "authors": [
-            "Darda, Kohinoor M, PhD",
-            "Maiwald, Aaron",
-            "Raghuram, Tanvi",
-            "Cross, Emily S"
-        ],
-        "abstract": [
-            "An increasing presence of artificial intelligence (AI) and robots in the realm of art is",
-            "moulding the aesthetic identity of the new-age consumer of art. Various questions arise with this",
-            "development: do cues to the humanness of the origin of an artwork or artist influence",
-            "our aesthetic preferences? Across two experiments, we investigated how the perception and appreciation of dance",
-            "is influenced by cues to human animacy by manipulating (1) \"agent form\" (human-like or robot-like",
-            "dancer); (2) belief about the source of the movement (human motion capture or computer animation);",
-            "(3) the source of choreography (human- or computer-generated); and (4) belief about the source of",
-            "choreography (believe a choreography is human- or computer-generated). Results pointed toward agent congruence -robot agents",
-            "were preferred when the source of movement was thought to be computer animation (Experiment 1)",
-            "and when the source of choreography was believed to be computer-generated (Experiment 2). Choreographies believed",
-            "to be human-generated were preferred (Experiment 2) but participants could not accurately identify the actual",
-            "source of choreography (Experiment 1). These results persisted above and beyond the effects of age,",
-            "dance expertise, technological expertise, attitudes toward AI, and how familiar, complex, evocative, technically competent, or",
-            "reproducible the dance was perceived to be. Dance expertise, technological expertise and attitudes toward AI",
-            "independently impacted aesthetic judgments. Our findings provide valuable insights to the design and development of",
-            "robotic dance by identifying the features of a dance choreography and audience characteristics that influence",
-            "its aesthetic engagement. Additionally, along with creating more refined creative productions by using AI in",
-            "a dancemaker's toolkit, shaping people's perceptions will be just as crucial for its reception and",
-            "for better engagement."
-        ],
-        "date_published": "2024-04-04T12:28:05.559031",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": []
-    },
-    {
-        "id": "fkx3w",
-        "title": "Increasing Mind Wandering With Accelerated Intermittent Theta Burst Stimulation Over the Left Dorsolateral Prefrontal Cortex",
-        "authors": [
-            "Aasen, Steffen R",
-            "Drevland, Ragnhild N",
-            "Csifcsak, Gabor",
-            "Mittner, Matthias"
-        ],
-        "abstract": [
-            "Mind wandering (MW) is the intentional or unintentional experience of attending to internal task-unrelated thoughts",
-            "while being occupied with an external task. Even though maintaining task focus is assumed to",
-            "require executive functions (EF), it is not clear how and to what extent MW and",
-            "EF interact. Research has found that activity in the dorsolateral prefrontal cortex (DLPFC) is associated",
-            "with EF and MW. To understand the causal role of the DLPFC in relation to",
-            "MW and EF, researchers have turned to non-invasive brain stimulation. Thus far, most studies have",
-            "used transcranial direct current stimulation, but the results have been inconclusive. To further elucidate the",
-            "relationship between the DLPFC, EF and MW, we conducted a pre-registered, sham-controlled, triple-blinded within-subject experiment",
-            "by combining intermittent theta burst stimulation (iTBS) interleaved with a recently developed MW-EF task. In",
-            "contrast to our expectations, participants reported significantly more MW following real iTBS as compared to",
-            "sham stimulation. However, at the same time, psychomotor precision and EF improved, indicating that participants",
-            "were able to engage in resource-intensive MW while simultaneously performing well on the task. We",
-            "argue that iTBS enhanced the underlying executive resources that could be used to increase both",
-            "MW and task performance in line with the resource-control view of MW. This finding opens",
-            "exciting avenues for studying the complex interplay between MW and EF and provides empirical support",
-            "for the utility of iTBS in improving executive performance during a demanding cognitive task."
-        ],
-        "date_published": "2024-04-02T11:59:15.514681",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "attention",
-            "DLPFC",
-            "dorsolateral prefrontal cortex",
-            "executive functioning",
-            "executive functions",
-            "executive resources",
-            "finger-tapping random sequence generation task",
-            "FT-RSGT",
-            "intermittent theta burst stimulation",
-            "iTBS",
-            "left DLPFC",
-            "left dorsolateral prefrontal cortex",
-            "mind wandering",
-            "placebo",
-            "prefrontal cortex",
-            "repetitive transcranial magnetic stimulation",
-            "rTMS",
-            "sham",
-            "submitted",
-            "task unrelated thoughts",
-            "TBS",
-            "theta burst",
-            "theta burst stimulation",
-            "TMS",
-            "transcranial magnetic stimulation",
-            "TUTs"
-        ]
-    },
-    {
-        "id": "fht26",
-        "title": "Targeting sleep physiology to modulate glymphatic brain clearance",
-        "authors": [
-            "van Hattem, Timo",
-            "Verkaar, Lieuwe",
-            "Krugliakova, Elena",
-            "Adelhofer, Nico",
-            "Zeising, Marcel",
-            "Drinkenburg, Wilhelmus H",
-            "Claassen, Jurgen A",
-            "Bodizs, Robert",
-            "Dresler, Martin",
-            "Rosenblum, Yevgenia"
-        ],
-        "abstract": [
-            "Sleep has been postulated to play an important role in the removal of potentially neurotoxic",
-            "molecules, such as amyloid-b, from the brain via the glymphatic system. Disturbed sleep, on the",
-            "other hand, may contribute to accumulation of neurotoxins in brain tissue, ultimately leading to neuronal",
-            "death. A bidirectional relationship has been proposed between impaired sleep and neurodegenerative processes, which start",
-            "years before the onset of clinical symptoms associated with conditions like Alzheimer's and Parkinson's disease.",
-            "Given their heavy burden on society, it is imperative to develop interventions that promote efficient",
-            "brain clearance and thereby could aid in preventing or slowing down neurodegeneration. In this review,",
-            "we explore whether the metabolic clearance function of sleep can be enhanced through sensory (e.g.,",
-            "auditory, vestibular) or transcranial (e.g., magnetic, ultrasound, infra-red light) stimulation, as well as pharmacological (e.g.,",
-            "antiepileptics) and behavioral (e.g., sleeping position, physical exercise, cognitive intervention) modulation of sleep physiology. A",
-            "particular focus will be placed on strategies to enhance slow-wave activity during non-rapid eye movement",
-            "sleep as a driver of glymphatic brain clearance. Overall, the review provides a comprehensive overview",
-            "on the potential preventative and therapeutic applications of sleep interventions in combating neurodegeneration, cognitive decline,",
-            "and dementia."
-        ],
-        "date_published": "2024-04-01T20:57:53.386664",
-        "license": "563c1cf88c5e4a3877f9e965",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "amyloid-beta",
-            "glymphatic clearance",
-            "neurodegeneration",
-            "non-invasive brain stimulation",
-            "pharmacological modulation",
-            "sensory stimulation",
-            "sleep modulation",
-            "slow-wave activity",
-            "slow-wave sleep",
-            "transcranial stimulation"
-        ]
-    },
-    {
-        "id": "um9v8",
-        "title": "Computational analysis, appraised concern-relevance, and the amygdala: The algorithmic value of appraisal processes in emotion",
-        "authors": [
-            "Stussi, Yoann",
-            "Sander, David"
-        ],
-        "abstract": [
-            "In this commentary, we focus on two central notions of the core proposal of the",
-            "human affectome framework according to which algorithms addressing affective concerns indicate the relevance of objects.",
-            "First, we address the very notion of such \"algorithms\" in emotion theories. Second, we address",
-            "the notion of appraised concern-relevance as an algorithmic solution to the computational problem of inferring",
-            "the relevance of objects. Finally, we illustrate the algorithmic value of appraisal processes in emotional",
-            "learning."
-        ],
-        "date_published": "2024-04-01T11:24:05.515644",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "algorithm",
-            "amygdala",
-            "appraisal",
-            "computational approach",
-            "concerns",
-            "emotion",
-            "learning"
-        ]
-    },
-    {
-        "id": "wnre3",
-        "title": "Trident G: Free Energy &amp; Brain Criticality Based Theory of Intelligence &amp; Resilience",
-        "authors": [
-            "Ashton Smith, Mark"
-        ],
-        "abstract": [
-            "This paper presents the Trident G Theory, a novel theoretical framework for understanding human intelligence.",
-            "The theory takes a systems-level approach. It draws on principles of brain criticality, the Free",
-            "Energy Principle, self-organisation and allostasis to explain how the brain achieves an optimal balance for",
-            "information processing and adaptive behaviour. The brain's near-criticality allows for flexible, efficient information processing and",
-            "enables rapid adaptation to changing environmental demands. Key concepts include metastability, where multiple cognitive states",
-            "can co-exist, and the Free Energy Principle, which frames the brain's drive to minimise uncertainty",
-            "and prediction error. The Trident G theory uniquely defines intelligence across two axes: processing/inference (vertical)",
-            "and free energy (horizontal). The vertical axis represents the metastable balance between 'top-down' executive control",
-            "and 'bottom-up' creative exploration. The horizontal axis reflects cognitive resilience across a spectrum of free",
-            "energy and arousal, governed by dopaminergic tone. The brain's allostatic capacity to maintain criticality along",
-            "both axes is hypothesized to define a dynamic range of general adaptive intelligence (G). The",
-            "theory offers a novel perspective on the neural basis of intelligence, potentially informing the understanding",
-            "of cognitive disorders and guiding the development of interventions aimed at enhancing cognitive function and",
-            "resilience across the lifespan."
-        ],
-        "date_published": "2024-03-30T09:24:39.803655",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "brain criticality",
-            "creativity",
-            "executive function",
-            "fluid reasoning",
-            "Free Energy Principle",
-            "g",
-            "general intelligence",
-            "network neuroscience",
-            "Trident G"
-        ]
-    },
-    {
-        "id": "pxdrz",
-        "title": "A neuronal code for object representation and memory in the human amygdala and hippocampus",
-        "authors": [
-            "Cao, Runnan",
-            "Brunner, Peter",
-            "Chakravarthula, Puneeth N",
-            "Wahlstrom, Krista",
-            "Inman, Cory S",
-            "smith, elliot",
-            "Li, Xin",
-            "Mamelak, Adam",
-            "Brandmeir, Nicholas",
-            "Rutishauser, Ueli",
-            "Willie, Jon T",
-            "Wang, Shuo"
-        ],
-        "abstract": [
-            "How the brain encodes, recognizes, and memorizes general visual objects is a fundamental question in",
-            "neuroscience. Here, we investigated the neural processes underlying visual object perception and memory by recording",
-            "from 3173 single neurons in the human amygdala and hippocampus across four experiments. We employed",
-            "both passive-viewing and recognition memory tasks involving a diverse range of naturalistic object stimuli. Our",
-            "findings reveal a novel region-based feature code for general objects, where neurons exhibit receptive fields",
-            "in the high-level visual feature space. This code can be validated by independent new stimuli",
-            "and replicated across all experiments, including fixation-based analyses with large natural scenes. This region-based code",
-            "explains the long-standing visual category selectivity, preferentially enhances memory of encoded stimuli, predicts memory performance,",
-            "encodes image memorability, and exhibits intricate interplay with memory contexts. Together, this region-based code provides",
-            "a critical link between visual feature processing and semantic representations in memory."
-        ],
-        "date_published": "2024-03-28T13:33:17.924814",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Amygdala",
-            "Deep neural network",
-            "Feature coding",
-            "Hippocampus",
-            "Human single-neuron recordings",
-            "Memory",
-            "Object"
-        ]
-    },
-    {
-        "id": "eg9fm",
-        "title": "The role of cognitive effort in emotion regulation",
-        "authors": [
-            "Scheffel, Christoph",
-            "Gartner, Anne"
-        ],
-        "abstract": [
-            "Empirical studies on emotion regulation (ER) have increasingly focused on understanding the role of cognitive",
-            "effort throughout ER processes. Cognitive effort is an essential component of various ER stages: from",
-            "the selection of ER strategies, through their implementation, to the post-regulation effects. During the selection",
-            "phase, individuals prefer strategies that entail lower cognitive demands, striking a balance between efficacy and",
-            "expended effort. Empirical evidence in the implementation phase underscores the necessity of cognitive effort in",
-            "ER, as indicated by subjective reports and physiological markers. Moreover, the engagement of cognitive effort",
-            "undergoes a cost-benefit analysis, wherein perceived costs may impede effective regulation and exacerbate negative emotions.",
-            "Beyond immediate regulation, the effects of cognitive effort may manifest in subsequent resource depletion and",
-            "influence the selection of future regulatory strategies. Understanding the intertwined interplay between cognitive effort and",
-            "ER is crucial for elucidating crucial components during ER processing and their implications for individual",
-            "well-being."
-        ],
-        "date_published": "2024-03-28T13:19:06.303861",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Cognitive Effort",
-            "Emotion regulation",
-            "Implementation phase",
-            "post-regulatory effect",
-            "Regulatory effort",
-            "Selection phase"
-        ]
-    },
-    {
-        "id": "mhnvt",
-        "title": "Adaptive curiosity about metacognitive ability",
-        "authors": [
-            "Recht, Samuel",
-            "Li, Canqi",
-            "Yang, Yifan",
-            "Chiu, Kaiki"
-        ],
-        "abstract": [
-            "Metacognition provides control and oversight to the process of acquiring and using knowledge. Efficient metacognition",
-            "is essential to many aspects of daily life, from healthcare to finance and education. Across",
-            "three experiments, we found a specific form of curiosity in humans about the quality of",
-            "their own metacognition, using a novel approach that dissociates cognitive from metacognitive information searches. Observers",
-            "displayed a strategic balance in their curiosity, alternating between a focus on cognitive accuracy and",
-            "metacognitive performance. This adaptive curiosity was modulated by an internal evaluation of metacognition, leading to",
-            "increased feedback requests when metacognition was likely to be inaccurate. These results show that individuals",
-            "are inherently curious about their metacognitive abilities and can compare cognitive and metacognitive precision to",
-            "fine-tune performance monitoring. We propose that this newly observed curiosity may reflect humans' focus on",
-            "meta-learning, or 'learning to learn', a promising avenue in the study of minds and machines."
-        ],
-        "date_published": "2024-03-27T23:24:18.596821",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "curiosity",
-            "metacognition",
-            "perception",
-            "self-regulation"
-        ]
-    },
-    {
-        "id": "h3g7t",
-        "title": "Rhythm is a timescale",
-        "authors": [
-            "Albert, Aviad",
-            "Grice, Martine"
-        ],
-        "abstract": [
-            "Many studies in the linguistic literature have tried to explain the rhythmic component of speech",
-            "by resorting to the notion of isochrony. The problems with such approaches have been demonstrated",
-            "in various recent works, owing to the fact that natural speech is highly irregular and",
-            "quasi-periodic at best. Rhythm also plays a role in the link between brain oscillations and",
-            "linguistic constituents, where entrainment is often assumed to be the underlying mechanism. Here too, the",
-            "non-isochronous nature of the speech signal led recent works to call for a more nuanced",
-            "understanding of entrainment in the context of language. We suggest that rhythm is the timescale",
-            "within which temporal relationships between isolated events are perceived (about 0.5-12 Hz). Moreover, we argue",
-            "that isochrony is not what defines rhythm - it is one of the goals that",
-            "rhythm can achieve. In music, isochrony often characterizes the signal shared between listeners, to promote",
-            "phase-locking to external sources. In speech, however, isochrony needs to be sourced from internal time-keeping",
-            "mechanisms, since it is likely the baseline measurement for mental representations, allowing us to perceive",
-            "the dynamic timing patterns in speech rate, which, in turn, enrich and facilitate comprehension via",
-            "prosody."
-        ],
-        "date_published": "2024-03-27T21:28:48.231349",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Auditory perception",
-            "Entrainment",
-            "Language evolution",
-            "Prosody",
-            "Rhythm",
-            "Speech rate"
-        ]
-    },
-    {
-        "id": "abps9",
-        "title": "Does the corollary discharge provide the sensory content of inner speech? A preregistered direct replication and extension of Scott (2013)",
-        "authors": [
-            "Delem, Mael",
-            "Stauffert, Nina",
-            "Nguyen, Noel",
-            "Debarnot, Ursula",
-            "Guillot, Aymeric",
-            "Nalborczyk, Ladislas"
-        ],
-        "abstract": [
-            "The mental production of speech or \"inner speech\" is a remarkable and foundational ability in",
-            "humans, involved in many activities such as reading, writing, planning, or remembering. Inner speech is",
-            "generally accompanied by a subjective multisensory (mainly auditory) experience. However, the cognitive and neural processes",
-            "leading to these sensory percepts remain poorly known. One prominent perspective is that the sensory",
-            "content of inner speech would correspond to the predicted sensory consequences of inhibited speech acts.",
-            "Scott (2013) provided experimental evidence suggesting that inner speech indeed involves the mental simulation of",
-            "speech acts, as evidenced by sensory attenuation of the concomitant perception of external speech sounds.",
-            "However, this study assessed silent speech, but not inner speech, which does not involve visible",
-            "articulatory movements. The present work aims to replicate and extend this study to assess whether",
-            "inner speech attenuates the perception of concomitant and congruent external speech sounds."
-        ],
-        "date_published": "2024-03-27T14:25:15.910926",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "corollary discharge",
-            "covert speech",
-            "imagined speech",
-            "inner speech",
-            "mental imagery",
-            "motor imagery",
-            "motor simulation"
-        ]
-    },
-    {
-        "id": "q8gsr",
-        "title": "Evidence, policy, education and neuroscience - The state of play in the UK",
-        "authors": [
-            "Thomas, Michael",
-            "Howard-Jones, Paul",
-            "Dudman-Jones, Jeremy",
-            "Palmer, Lucy R J",
-            "Bowen, Astrid E J",
-            "Perry, Roisin"
-        ],
-        "abstract": [
-            "In this article, we give an overview of educational neuroscience (mind, brain, and education) in",
-            "the United Kingdom. We consider the state of translation, describing respectively the state of the",
-            "dialogue between researchers and educators, the state of evaluation of approaches to improve educational outcomes,",
-            "and the state of innovation in research translation. We consider the teacher perspective. What do",
-            "UK teachers think about educational neuroscience and its potential for informing classroom practice, and how",
-            "do ideas about pedagogical approaches feature amongst their everyday concerns? We describe the results of",
-            "a recent survey from a representative sample of over 1000 UK teachers, and a case",
-            "study of a UK high school teacher who employs educational neuroscience in his practice and",
-            "what this entails. Lastly, we consider the policy perspective and assess the recent move by",
-            "the UK government to introduce knowledge of cognitive science into initial and early-career teacher training."
-        ],
-        "date_published": "2024-03-26T16:23:10.169928",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Educational neuroscience",
-            "Policy",
-            "Teacher training",
-            "Translation",
-            "Translational neuroscience"
-        ]
-    },
-    {
-        "id": "43zae",
-        "title": "Behavioural and EEG correlates of forward and backward priming",
-        "authors": [
-            "Wilson, Mareike",
-            "Wittmann, Marc",
-            "Kornmeier, Jurgen"
-        ],
-        "abstract": [
-            "During affective priming, perception of an emotional \"prime stimulus\" influences the reaction time of the",
-            "subsequent emotional \"target stimulus\". If prime and target have the same valence (congruent trials), reactions",
-            "to the target are faster than if prime and target have different valences (incongruent trials).",
-            "Bem introduced a backward priming paradigm in 2011, where first the target was presented and",
-            "then the prime after the response. Similar to the classical affective forward priming effects, he",
-            "found faster reaction times in congruent compared to incongruent trials, and interpreted these results as",
-            "evidence supporting precognition. In the present study, while measuring EEG, we combined a forward priming",
-            "paradigm (hypothesis driven analysis) with a related backward priming paradigm (exploratory analysis), following Bem's study.",
-            "We analysed the EEG data on a group level (ERPs) and on an individual level",
-            "(single participants, applying artificial neural networks). We found significantly faster reaction times for congruent compared",
-            "to incongruent trials in the forward priming experiment (p=0.0004) but no statistically significant differences in",
-            "the backward priming experiment (p=0.1237). We also found significant differences in ERP amplitude in the",
-            "forward priming congruent vs incongruent conditions (P8 electrode: p = 0.003). Backward priming results show",
-            "weaker, shorter, and less significant differences between congruent and incongruent trials, with maxima at electrodes",
-            "P7, P3, CP5, and CP1. The neural network results were very variable across participants in",
-            "both the backward and forward priming and on average, the accuracy results were at chance",
-            "level for both the forward priming as well as the backward priming. Our results replicate",
-            "behavioral findings and extend the EEG findings for forward priming from the literature. We did",
-            "not replicate Bem's backward priming results. The exploratory backward priming EEG results are weak, however",
-            "they give a good starting point for future studies."
-        ],
-        "date_published": "2024-03-26T15:51:49.253741",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Affective Priming",
-            "EEG",
-            "Reaction Times"
-        ]
-    },
-    {
-        "id": "hx2e7",
-        "title": "Quo Vadis, Planning?",
-        "authors": [
-            "Pesnot Lerousseau, Jacques",
-            "Summerfield, Christopher"
-        ],
-        "abstract": [
-            "Deep meta-learning is the driving force behind advances in contemporary AI research, and a promising",
-            "theory of flexible cognition in natural intelligence. We agree with Binz et al. that many",
-            "supposedly \"model-based\" behaviours may be better explained by meta-learning than by classical models. We argue",
-            "that this invites us to revisit our neural theories of problem solving and goal-directed planning."
-        ],
-        "date_published": "2024-03-26T11:09:18.896089",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": []
-    },
-    {
-        "id": "nrs9v",
-        "title": "Electrocortical responses in anticipation of avoidable and inevitable threats: a multisite study",
-        "authors": [
-            "Stegmann, Yannik",
-            "Teigeler, Janna",
-            "Mirifar, Arash",
-            "Keil, Andreas",
-            "Gamer, Matthias"
-        ],
-        "abstract": [
-            "When faced with danger, human beings respond with a repertoire of defensive behaviors, including freezing",
-            "and active avoidance. Previous research has revealed a pattern of physiological responses, characterized by heart",
-            "rate bradycardia, reduced visual exploration, and heightened sympathetic arousal in reaction to avoidable threats, suggesting",
-            "a state of attentive immobility in humans. However, the electrocortical underpinnings of these behaviors remain",
-            "largely unexplored. To investigate the visuocortical components of attentive immobility, we recorded occipital alpha activity,",
-            "along with eye-movements and autonomic responses, while participants awaited either an avoidable, inevitable, or no",
-            "threat. To test the robustness and generalizability of our findings, we collected data from a",
-            "total of 101 participants at two laboratories. Across sites, we observed an enhanced suppression of",
-            "occipital alpha activity during avoidable threats, in contrast to inevitable or no threat trials, particularly",
-            "towards the end of the trial that prompted avoidance responses. This response pattern coincided with",
-            "heart rate bradycardia, centralization of gaze and increased sympathetic arousal. Furthermore, our findings expand on",
-            "previous research by revealing that the amount of alpha suppression, along with centralization of gaze,",
-            "and heart rate changes, predict the speed of motor response times. Collectively, these findings indicate",
-            "that when individuals encounter avoidable threats, they enter a state of attentive immobility, which enhances",
-            "perceptual processing and facilitates action preparation. This state appears to reflect freezing-like behavior in humans."
-        ],
-        "date_published": "2024-03-26T08:03:51.282736",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Alpha",
-            "Avoidance",
-            "EEG",
-            "Electrocortical",
-            "Eye-Tracking",
-            "Freezing",
-            "Neural oscillations",
-            "Pupil",
-            "Threat"
-        ]
-    },
-    {
-        "id": "k89db",
-        "title": "What is bilateral language? Evidence from distributions of laterality indices",
-        "authors": [
-            "Bishop, Dorothy V M"
-        ],
-        "abstract": [
-            "In a study of patterns of language laterality in left- and right-handers, Woodhead et al.",
-            "(2021) noted that several tasks showed no bias to the left-hemisphere in left-handed individuals. This",
-            "might appear to suggest that these functions were mediated by the two hemispheres working together",
-            "equally in left-handers. Here, I consider an alternative possibility: that individuals show lateral bias on",
-            "these tasks, but the bias can occur to either left or right. Further analysis of",
-            "the distributions of data from individuals in Woodhead et al is compared with simulated data.",
-            "The pattern of results suggests that the impression of bilateral language processing may be an",
-            "artefact of reliance on group data: even though the group mean does not differ from",
-            "zero, a high proportion of individuals are biased to left or right."
-        ],
-        "date_published": "2024-03-25T14:51:42.365548",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "asymmetry",
-            "bilateral",
-            "fTCD",
-            "handedness",
-            "language",
-            "laterality",
-            "neurolinguistics"
-        ]
-    },
-    {
-        "id": "z59kq",
-        "title": "Pupillometry is sensitive to speech masking during story listening: The critical role of modeling temporal trends",
-        "authors": [
-            "Widmann, Andreas",
-            "Herrmann, Bjorn",
-            "Scharf, Florian"
-        ],
-        "abstract": [
-            "An increase in pupil size is an important index of listening effort, for example, when",
-            "listening to speech masked by noise. Specifically, the pupil dilates as the signal-to- noise ratio",
-            "decreases. A growing body of work aims to assess listening effort under naturalistic conditions using",
-            "continuous speech, such as spoken stories. However, a recent study found that pupil size was",
-            "sensitive to speech masking only when listening to sentences but not under such naturalistic conditions",
-            "when listening to stories. The pupil typically constricts with increasing time on task during an",
-            "experimental block or session, and it may be necessary to account for this temporal trend",
-            "in experimental design and data analysis in paradigms using longer, continuous stimuli. In the current",
-            "work, we re-analyze the previously published pupil data, taking into account a problematic constraint of",
-            "randomization and time-on-task, and use the data to outline methodological solutions for accounting for temporal",
-            "trends in physiological data using linear mixed models. The results show that, in contrast to",
-            "the previous work, pupil size is indeed sensitive to speech masking even during continuous story",
-            "listening. Furthermore, accounting for the temporal trend further allowed modeling the dynamic changes in the",
-            "speech masking effect on pupil size over time as the continuous story unfolded. After demonstrating",
-            "the importance of accounting for temporal trends in the analysis of empirical data, we provide",
-            "simulations, methodological considerations, and user recommendations for the analysis of temporal trends in experimental data",
-            "using linear mixed models."
-        ],
-        "date_published": "2024-03-25T12:59:16.059914",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Linear mixed models",
-            "Listening effort",
-            "Pupillometry",
-            "Speech masking",
-            "Temporal trend",
-            "Time-on-task"
-        ]
-    },
-    {
-        "id": "6eyvc",
-        "title": "Visual perspective taking and action understanding",
-        "authors": [
-            "Brady, Nuala"
-        ],
-        "abstract": [
-            "Understanding what others are doing is a fundamental aspect of social cognition and a skill",
-            "that is arguably linked to visuospatial perspective taking (VPT), the ability to apprehend the spatial",
-            "layout of a scene from another person's perspective. Yet, with few and notable exceptions, action",
-            "understanding and VPT are rarely studied together. Participants (43 females, 37 males) made judgements about",
-            "the spatial layout of objects in a scene from the perspective of an avatar who",
-            "was positioned at 0, 90, 270 or 180 relative to the participant. In a variant",
-            "of a traditional VPT task, the avatar either interacted with the objects in the scene,",
-            "by pointing to or reaching for them, or was present but did not engage with",
-            "the objects. Although the task was identical across all conditions - to say whether a",
-            "target object is to the right or left of a control object - we show",
-            "that the avatar's actions modulates performance. Specifically, participants were more accurate when the avatar engaged",
-            "with the target object, and correspondingly, less accurate and slower when the avatar interacted with",
-            "the control objects. All participants in this study provided a measure of self-reported empathy and",
-            "within the range of 'typical' empathy scores, females were faster than males, with both groups",
-            "affected by the avatar's actions. We conclude that action understanding and visual perspective taking are",
-            "linked, likely via the rapid deployment of two separate cognitive mechanisms. This linkage may enhance",
-            "our ability to interact and communicate with others"
-        ],
-        "date_published": "2024-03-25T08:31:52.233568",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "action understanding",
-            "Level 2 perspective taking",
-            "visual perspective taking"
-        ]
-    },
-    {
-        "id": "cavx9",
-        "title": "Creativity &amp; memory - The neural basis of the insight memory advantage.",
-        "authors": [
-            "Becker, Maxi",
-            "Cabeza, Roberto"
-        ],
-        "abstract": [
-            "Creativity and memory are intertwined: memory accesses existing knowledge, while creativity enhances it. Recent evidence",
-            "links memory enhancement with insight or \"Aha!\" moments, often accompanying creative solutions. Behavioral studies have",
-            "shown that solutions with accompanied insight are better remembered later. While neuroscientific evidence regarding this",
-            "insight memory advantage (IMA) remains limited, we propose three underlying mechanisms: a noradrenergic arousal circuitry",
-            "involving the amygdala, dopaminergic reward-prediction pathways in SN/VTA, ventral striatum and hippocampus, and efficient integration",
-            "of novel information into existing schemas mediated by medial prefrontal cortex. These mechanisms likely synergistically",
-            "enable rapid learning with insights. Understanding the neural basis of the IMA holds implications for",
-            "education and problem-solving strategies. Further research is essential for leveraging this IMA in practical contexts."
-        ],
-        "date_published": "2024-03-24T18:18:00.160921",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "Aha!",
-            "arousal",
-            "creativity",
-            "dopamine",
-            "hippocampus",
-            "insight",
-            "memory",
-            "noradrenaline",
-            "prediction error",
-            "schema"
-        ]
-    },
-    {
-        "id": "7wc4r",
-        "title": "Mentalising mechanisms underly strategic coordination in Guinea baboons (Papio papio)",
-        "authors": [
-            "Nong, Thinh-Toan A",
-            "Claidiere, Nicolas",
-            "Fagot, Joel",
-            "PHILIPPE, Remi",
-            "Derrington, Edmund",
-            "Dreher, Jean-Claude"
-        ],
-        "abstract": [
-            "Is the ability to represent the world from the perspective of another (mentalising) confined to",
-            "humans? Guinea baboons living in a social colony freely came to play a 2-players coordination",
-            "game via touchscreen devices with any other baboon, or alone. In fact, in both conditions,",
-            "they interacted with an identical Artificial Agent. Coordination with the Artificial Agent was more successful",
-            "in the social than in the solo condition. A computational mentalising model accounted for baboon's",
-            "behaviour much better than simpler models that lacked mentalising components in the social condition while",
-            "the same baboons used a simpler strategy when they played alone. Together, these findings indicate",
-            "that computations required for mentalising are present in the Guinea baboon and provide an evolutionary",
-            "advantage for efficient coordination."
-        ],
-        "date_published": "2024-03-29T13:52:25.461608",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "baboons",
-            "Computational Modeling",
-            "coordination",
-            "dominance",
-            "Theory-of-mind"
-        ]
-    },
-    {
-        "id": "wtnax",
-        "title": "Spontaneous rates exhibit high intra-individual stability across movements involving different biomechanical systems and cognitive demands",
-        "authors": [
-            "Engler, Ben H",
-            "Zamm, Anna",
-            "Moller, Cecilie"
-        ],
-        "abstract": [
-            "Spontaneous rhythmic movements are part of everyday life, e.g., in walking, clapping or music making.",
-            "Humans perform such spontaneous motor actions at different rates that reflect specific biomechanical constraints of",
-            "the effector system in use. However, there is some evidence for intra-individual consistency of specific",
-            "spontaneous rates arguably resulting from common underlying processes. Additionally, individual and contextual factors such as",
-            "musicianship and circadian rhythms have been suggested to influence spontaneous rates. This study investigated the",
-            "relative contributions of these factors and provides a comprehensive picture of rates among different spontaneous",
-            "motor behaviors, i.e., melody production, walking clapping, tapping with and without sound production, the latter",
-            "measured online before and in the lab. Participants (n = 60) exhibited high intra-individual stability",
-            "across tasks. Task-related influences included faster tempi for spontaneous production rates of music and wider",
-            "ranges of spontaneous motor tempi (SMT) and clapping rates compared to walking and music making",
-            "rates. Moreover, musicians exhibited slower spontaneous rates across tasks, yet we found no influence of",
-            "time of day on SMT as measured online in pre-lab sessions. Tapping behavior was similar",
-            "in pre-lab and in-lab sessions, validating the use of online SMT assessments. Together, contextual factors",
-            "played a weaker role than individual factors and the high intra-individual stability of the spontaneous",
-            "rates provides evidence that different motor behaviors are influenced by common underlying processes."
-        ],
-        "date_published": "2024-03-21T18:37:18.493148",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "internal tempo",
-            "musicianship",
-            "natural frequencies",
-            "SMT",
-            "spontaneous rates",
-            "SPR"
-        ]
-    },
-    {
-        "id": "gf7mr",
-        "title": "Transdiagnostic compulsivity is associated with reduced reminder setting, only partially attributable to overconfidence",
-        "authors": [
-            "Boldt, Annika",
-            "Fox, Celine A",
-            "Gillan, Claire",
-            "Gilbert, Sam"
-        ],
-        "abstract": [
-            "In the current study, we explored the behavioural and cognitive correlates of the transdiagnostic trait",
-            "'compulsive behaviour and intrusive thought' (CIT). CIT is associated with impaired metacognition, which in turn",
-            "has been associated with cognitive offloading behaviours such as external reminder-setting that play a key",
-            "role in fulfilling cognitive goals. In an online study (N=600) we investigated individual differences in",
-            "compulsivity, metacognition, and external reminder-usage. Compulsive individuals had reduced preference for external reminders. This was",
-            "partially, but not fully, attributable to their relative overconfidence. In contrast to previous studies, we",
-            "found no evidence for an impaired confidence-action link: compulsive individuals used their metacognition to guide",
-            "offloading just as much as their non-compulsive counterparts. Given the compensatory nature of cognitive offloading,",
-            "our findings imply that compulsive individuals are at increased risk of inadequate external memory support.",
-            "Along with transdiagnostic variation in the general population, this finding could also have implications for",
-            "clinical conditions, such as OCD."
-        ],
-        "date_published": "2024-03-21T17:18:36.434673",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "cognitive control",
-            "cognitive offloading",
-            "compulsivity",
-            "confidence",
-            "external aids",
-            "metacognition",
-            "OCD",
-            "reminders",
-            "transdiagnostic phenotypes"
-        ]
-    },
-    {
-        "id": "ar2h3",
-        "title": "Neurological function in adult dyslexia",
-        "authors": [
-            "Richlan, Fabio"
-        ],
-        "abstract": [
-            "This chapter provides an overview of research on neurological function and dysfunction in dyslexia. The",
-            "topics covered include historical aspects, modern-day neuroimaging including morphometrical methods, structural and functional connectivity, and",
-            "functional activation studies. A particular focus lies on the presumably impaired left hemisphere reading network",
-            "in developmental dyslexia. Finally, current limitations, future developments, as well as promising potentials are discussed."
-        ],
-        "date_published": "2024-03-21T12:44:45.693866",
-        "license": "563c1cf88c5e4a3877f9e96c",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": []
-    },
-    {
-        "id": "sdcwe",
-        "title": "Semantic context effects in picture and sound naming: Evidence from ERPs and pupillometric data",
-        "authors": [
-            "Gruner, Magdalena",
-            "Widmann, Andreas",
-            "Wohner, Stefan",
-            "Schroger, Erich",
-            "Jescheniak, Jorg D"
-        ],
-        "abstract": [
-            "When a picture is repeatedly named in the context of semantically related pictures (homogeneous context)",
-            "responses are slower than when the picture is repeatedly named in the context of unrelated",
-            "pictures (heterogeneous context). This semantic interference effect in blocked-cyclic naming plays an important role in",
-            "devising theories of word production. Wohner et al. (2021) have shown that the effect is",
-            "substantially larger when participants name environmental sounds than when they name pictures. We investigated possible",
-            "reasons for this difference, using EEG and pupillometry. The behavioral data replicated Wohner and colleagues.",
-            "ERPs were more positive in the homogeneous compared to the heterogeneous context over central electrode",
-            "locations between 140-180 ms and 250-350 ms for picture and between 250-350 ms for sound",
-            "naming presumably reflecting semantic interference during semantic and lexical processing. The later component was of",
-            "similar size for pictures and sounds. ERPs were more negative in the homogeneous compared to",
-            "the heterogeneous context over frontal electrode locations between 400-600 ms only for sounds. The pupillometric",
-            "data showed a stronger pupil dilation in the homogeneous compared to the heterogeneous context only",
-            "for sounds. The amplitudes of the late ERP negativity and pupil dilation predicted naming latencies",
-            "for sounds in the homogeneous context. The latency of the effects indicates that the difference",
-            "in semantic interference between picture and sound naming arises at later, presumably post-lexical processing stages",
-            "closer to articulation. We suggest that the processing of the auditory stimuli interferes with phonological",
-            "response preparation and self-monitoring, leading to enhanced semantic interference."
-        ],
-        "date_published": "2024-03-20T18:35:25.881991",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "blocked-cyclic naming",
-            "picture naming",
-            "semantic context effect",
-            "sound naming",
-            "speech production"
-        ]
-    },
-    {
-        "id": "r7s39",
-        "title": "Word type and frequency effects on lexical decisions are process-dependent and start early",
-        "authors": [
-            "Krause, Joshua",
-            "van Rij, Jacolien",
-            "Borst, Jelmer P"
-        ],
-        "abstract": [
-            "When encountering letter strings, we rapidly determine whether they are words. The speed of such",
-            "lexical decisions (LDs) is affected by word frequency. Apart from influencing late, decision-related, processing stages,",
-            "frequency has also been shown to affect very early stages, and even the processing of",
-            "non-words. We developed a detailed account of the different frequency effects involved in LDs by",
-            "1) dividing LDs into processing stages using a combination of Hidden semi-Markov models and multivariate",
-            "pattern analysis applied to EEG data and 2) using generalized additive mixed models to investigate",
-            "how the effect of continuous word and non-word frequency differs between these stages. We discovered",
-            "six stages. In the earliest stages visual processing was completed faster for frequent words, but",
-            "took longer for word-like non-words. In later stages, word identification was followed by an elaborate",
-            "decision process, both affected differently by frequency. We therefore conclude that frequency indeed affects all",
-            "processes involved in LDs, and that the magnitude and direction of these effects differs both",
-            "by process and word type."
-        ],
-        "date_published": "2024-03-19T13:50:08.919493",
-        "license": "563c1cf88c5e4a3877f9e965",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "EEG",
-            "HsMM-MVPA",
-            "Lexical Decisions",
-            "Processing Stages",
-            "Word Processing"
-        ]
-    },
-    {
-        "id": "umrax",
-        "title": "Neural bases of social facilitation and inhibition: how peer presence affects elementary eye movements",
-        "authors": [
-            "Tricoche, Leslie",
-            "d'Halluin, Marion R",
-            "Meunier, Martine",
-            ", Pelisson"
-        ],
-        "abstract": [
-            "Social Facilitation/Inhibition (SFI) refers to how others' presence influences task performance positively or negatively. Our",
-            "previous study revealed that peer presence modulated saccadic eye movements, a fundamental sensorimotor activity. Pro-",
-            "and anti-saccades were either facilitated or inhibited depending on trial block complexity (Tricoche et al.,",
-            "2020). In the present fMRI study, we adapted our paradigm to investigate the neural basis",
-            "of SFI on saccades. Considering inter- and intra-individual variabilities, we evaluated the shared and distinct",
-            "neural patterns between social facilitation and inhibition. We predicted an involvement of the saccade-related and",
-            "attention networks, alongside the Theory-of-Mind (ToM) network, with opposite activity changes between facilitation and inhibition.",
-            "Results confirmed peer presence modulation in fronto-parietal areas related to saccades and attention, in opposite",
-            "directions for facilitation and inhibition. Additionally, the ventral attention network was modulated during inhibition. Default",
-            "mode regions, including ToM areas, were also modulated. Finally, pupil size, often linked to arousal,",
-            "increased with peers and correlated with dorsal attention regions and anterior insula activities. These results",
-            "suggest that SFI engages task-specific and domain-general networks, modulated differently based on observed social effect.",
-            "Attention network seemed to play a central role at both basic (linked to arousal or",
-            "vigilance) and cognitive control levels."
-        ],
-        "date_published": "2024-03-20T00:00:35.597055",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "antisaccades",
-            "attention",
-            "DMN",
-            "fMRI",
-            "prosaccades",
-            "social influence"
-        ]
-    },
-    {
-        "id": "25rwt",
-        "title": "Delightful duets: Motor synchrony and mutual gaze enhance dance enjoyment and perceptions of togetherness",
-        "authors": [
-            "Cross, Emily S",
-            "Darda, Kohinoor M, PhD",
-            "Moffat, Ryssa",
-            "Perez, Lina M M",
-            "Humphries, Stacey",
-            "Kirsch, Louise P"
-        ],
-        "abstract": [
-            "As social beings, we are adept at coordinating bodily movements and gaze with others. Often,",
-            "when coordinating with another person, we orient ourselves to face them, as mutual gaze provides",
-            "valuable cues pertaining to attention and intentions. Moreover, motor synchrony and mutual gaze are associated",
-            "with prosocial outcomes, yet the perceptual consequences of these forms of coordination remain poorly understood.",
-            "Across two experiments, we assessed how movement synchrony and gaze direction influence observers' perceptions of",
-            "dyads. Observers' behavioural responses indicated that dyads are perceived as more socially connected and are",
-            "more enjoyable to watch when moving synchronously and facing each other. Neuroimaging results showed modulation",
-            "of the Action Observation and Theory of Mind networks by motor synchrony and mutual gaze,",
-            "with more robust brain activity when evaluating social connectedness than aesthetic value (i.e., enjoyment). A",
-            "fuller understanding of the consequences of motor synchrony and mutual gaze from the observer's viewpoint",
-            "holds important implications for social perception, in terms of how observers intuit social relationships within",
-            "dyads, and the aesthetic value derived from watching individuals moving in these ways."
-        ],
-        "date_published": "2024-03-19T08:47:39.529904",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "aesthetics",
-            "dance",
-            "fMRI",
-            "kinematics",
-            "motor synchrony",
-            "theory of mind"
-        ]
-    },
-    {
-        "id": "a36sm",
-        "title": "Environmental and neurodevelopmental contributors to youth mental illness",
-        "authors": [
-            "Whittle, Sarah",
-            "Zhang, Lu",
-            "Rakesh, Divyangana"
-        ],
-        "abstract": [
-            "While a myriad of factors likely contribute to the development of mental illness in young",
-            "people, the social environment (including early adverse experiences) in concert with neurodevelopmental alterations are undeniably",
-            "important. A number of influential theories make predictions about how and why neurodevelopmental alterations may",
-            "mediate or moderate the effects of the social environment on the emergence of mental illness.",
-            "Here, we discuss current evidence supporting each of these theories. Although this area of research",
-            "is rapidly growing, the body of evidence is still relatively limited. However, there exist some",
-            "consistent findings, including increased striatal reactivity during positive affective processing and larger hippocampal volumes being",
-            "associated with increased vulnerability or susceptibility to the effects of social environments on internalizing symptoms.",
-            "Limited longitudinal work has investigated neurodevelopmental mechanisms linking the social environment with mental health. Drawing",
-            "from human research and insights from animal studies, we propose an integrated mediation-moderation model and",
-            "outline future research directions to advance the field."
-        ],
-        "date_published": "2024-03-18T09:38:49.270821",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": []
-    },
-    {
-        "id": "2qan5",
-        "title": "Pretraining alpha rhythm enhancement by neurofeedback facilitates short-term perceptual learning and improves visual acuity by facili-tated consolidation",
-        "authors": [
-            "Chang, Ming",
-            "Suzuki, Shuntaro",
-            "Kurose, Takahiro",
-            "Ibaraki, Takuya"
-        ],
-        "abstract": [
-            "Learning through perceptual training using the Gabor patch (GP) has attracted attention as a new",
-            "vision restoration technique for myopia and age-related deterioration of visual acuity (VA). However, the task",
-            "itself is monotonous and painful and requires numerous training sessions and some time before being",
-            "effective, which has been a challenge for its widespread application. One effective means of facilitating",
-            "perceptual learning is the empowerment of EEG alpha rhythm in the sensory cortex before neurofeedback",
-            "(NF) training; however, there is a lack of evidence for VA. We investigated whether four",
-            "30-min sessions of GP training, conducted over two weeks with/without EEG NF to increase alpha",
-            "power (NF and control group, respectively), can improve vision in myopic subjects. Contrast sensitivity (CS)",
-            "and VA were measured before and after each GP training. The NF group showed an",
-            "improvement in CS at the fourth training session, not observed in the control group. In",
-            "addition, VA improved only in the NF group at the third and fourth training sessions,",
-            "this appears as a consolidation effect (maintenance of the previous training effect). Participants who produced",
-            "stronger alpha power during the third training session showed greater VA recovery during the fourth",
-            "training session. These results indicate that enhanced pretraining alpha empowerment strengthens the subsequent consolidation of",
-            "perceptual learning and that even a short period of GP training can have a positive",
-            "effect on VA recovery. This simple protocol may facilitate use of a training method to",
-            "easily recover vision."
-        ],
-        "date_published": "2024-03-18T14:24:33.025957",
-        "license": "563c1cf88c5e4a3877f9e96a",
-        "disciplines": [
-            "Cognitive Neuroscience"
-        ],
-        "tags": [
-            "alpha rhythm",
-            "Gabor patch",
-            "neurofeedback",
-            "perceptual learning",
-            "visual acuity"
+            "anti-correlations",
+            "Attention",
+            "Brain Networks",
+            "Default Mode Network",
+            "Frontoparietal network",
+            "Functional Connectivity",
+            "Meditation",
+            "Mental Health",
+            "Resting State"
         ]
     }
 ]

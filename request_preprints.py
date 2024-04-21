@@ -18,6 +18,9 @@ disciplines = ['Psychiatry']
 data_folder = "data/json"
 csv_folder = "data/csv"
 
+# Load the environment variables
+load_dotenv()
+
 # Retrieve the OSF_TOKEN environment variable
 osf_token = os.getenv("OSF_TOKEN")
 if not osf_token:
@@ -185,10 +188,11 @@ output_dir = "output/digests"
 os.makedirs(output_dir, exist_ok=True)
 
 # Set up Hugging Face authentication
+# Retrieve the HF_TOKEN environment variable
 hf_token = os.getenv("HF_TOKEN")
+
 if not hf_token:
     raise ValueError("HF_TOKEN environment variable not set")
-os.environ["HF_TOKEN"] = hf_token
 
 # Organize data by discipline
 discipline_data = {}

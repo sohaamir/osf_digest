@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: osf_digest
+Version: 1.0.0
+Summary: A command-line tool to retrieve and summarize preprints from OSF
+Home-page: https://github.com/sohaamir/osf_digest
+Author: Aamir Sohail
+Author-email: axs2210@student.bham.ac.uk
+License: MIT
+Keywords: osf preprints summarization
+Requires-Dist: requests
+Requires-Dist: tqdm
+Requires-Dist: unidecode
+Requires-Dist: langdetect
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: python-dotenv

@@ -55,6 +55,7 @@ Replace your_osf_token with your OSF API token and your_hf_token with your Huggi
 
 Your folder structure should look something like this:
 
+```
 ├── README.md
 ├── cli
 │   ├── __init__.py
@@ -88,6 +89,7 @@ Your folder structure should look something like this:
 ├── request_preprints.py
 ├── requirements.txt
 └── setup.py
+```
 
 ## How the script works
 

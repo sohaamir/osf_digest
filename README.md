@@ -1,15 +1,11 @@
 # OSF Preprint Digest
-OSF Preprint Digest is a command-line tool that retrieves preprints from the Open Science Framework (OSF) based on specified disciplines and generates concise summaries of the preprints using the BART-large-CNN model. The tool allows users to stay updated with the latest research in their fields of interest by providing a digestible overview of recently published preprints.
+OSF Preprint Digest is a command-line tool that retrieves preprints from the Open Science Framework (OSF) based on specified disciplines and generates concise summaries of the preprints using the [BART-large-CNN model](https://huggingface.co/facebook/bart-large-cnn). I was surprised to see that there was (to my knowledge at least) no readily available tool which summarises published articles in this way, so I decided to make it myself 🙂
 
-## Features
-- Retrieve preprints from OSF based on user-specified disciplines
-- Filter preprints published within a specified number of days
-- Generate concise summaries of the preprints using the BART-large-CNN model
-- Save the retrieved preprints as JSON files for further analysis
-- Create CSV files containing the preprint summaries organized by discipline
-
-## How It Works
-The OSF Preprint Digest tool retrieves preprints from the Open Science Framework (OSF) based on user-specified disciplines and date range using the OSF API. It filters the preprints to include only those with English abstracts, processes the abstracts, and splits them into smaller chunks for better summarization. The tool also retrieves citation information for each preprint using the OSF API. The retrieved preprints are saved as JSON files for further analysis, and the BART-large-CNN model is used to generate concise summaries of the preprints. Finally, the preprint summaries are organized by discipline and saved as CSV files for easy access and review.
+## Functionality
+- The tool filters the preprints to include only those with English abstracts, processes the abstracts, and splits them into smaller chunks for better summarization.
+- It also separately retrieves citation information for each preprint including the author list, which is combined with the abstract.
+- The retrieved preprints are saved as JSON files for further analysis, and the BART-large-CNN model is used to generate concise summaries of the preprints.
+- Finally, the preprint summaries are organized by discipline and saved as CSV files for easy access and review.
 
 ## Installation
 Clone the repository:
@@ -27,23 +23,100 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
-Install the CLI tool:
+which will install the following:
+
+```bash
+requests
+tqdm
+unidecode
+langdetect
+transformers
+torch
+python-dotenv
+```
+
+Install the CLI tool from the project root:
 ```bash
 pip install -e .
 ```
 
 ## Configuration
-Before running the OSF Preprint Digest tool, you need to set up the necessary API tokens.
+Before running the OSF Preprint Digest tool, you need to set up the necessary API tokens, which we can then load into the script using `dotenv`.
 
-Create a file named .env in the project root directory.
-Open the .env file and add the following lines:
+Create a file named `.env` in the project root directory.
+Open the `.env` file and add the following lines:
 
 ```bash
 OSF_TOKEN=your_osf_token
 HF_TOKEN=your_hf_token
 ```
 
-Replace your_osf_token with your OSF API token and your_hf_token with your Hugging Face API token.
+Replace your_osf_token with your OSF API token and your_hf_token with your Hugging Face API token. Both are freely available on the respective websites, you just need to make an account.
+
+Your folder structure should look something like this:
+
+├── README.md
+├── cli
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-311.pyc
+│   │   └── cli.cpython-311.pyc
+│   ├── cli.py
+│   └── instructions.md
+├── data
+│   ├── csv
+│   │   ├── 2024-04-14_osf_digest.csv
+│   │   └── 2024-04-21_osf_digest.csv
+│   └── json
+│       ├── behavioural_neuroscience_preprints.json
+│       ├── cognitive_neuroscience_preprints.json
+│       ├── education_preprints.json
+│       ├── memory_preprints.json
+│       ├── mental_health_preprints.json
+│       └── psychiatry_preprints.json
+├── osf_digest.egg-info
+│   ├── PKG-INFO
+│   ├── SOURCES.txt
+│   ├── dependency_links.txt
+│   ├── entry_points.txt
+│   ├── requires.txt
+│   └── top_level.txt
+├── output
+│   └── digests
+│       ├── 2024-04-14_discipline_summaries.csv
+│       └── 2024-04-21_discipline_summaries.csv
+├── request_preprints.py
+├── requirements.txt
+└── setup.py
+
+## How the script works
+
+We firstly import a number of external modules/packages:
+
+```python
+import requests
+import json
+from datetime import datetime, timedelta
+from tqdm import tqdm
+from unidecode import unidecode
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
+import time
+from langdetect import detect
+import csv
+from transformers import BartTokenizer, BartForConditionalGeneration, pipeline
+import torch
+from dotenv import load_dotenv
+```
+
+- `requests` to get the information from OSF
+- `datetime` to set the length of time for the request to cover
+- `tqdm` for progress bars when pulling the information
+- `unidecode` to sort out pesky characters (most commonly in author's names)
+- `concurrent.futures` to speed things up
+- `langdetect` to remove non-English abstracts
+- `transformers` and `torch` to run the BART model
+- `dotenv` to load the environmental variables (our OSF and Hugging Face tokens)
 
 ## Usage
 To run the OSF Preprint Digest tool, use the following command:
@@ -73,20 +146,6 @@ The OSF Preprint Digest tool generates the following output files:
 - JSON files containing the retrieved preprints, saved in the data/json directory
 - A CSV file containing the preprint summaries, saved in the data/csv directory
 - A CSV file containing the discipline-wise summaries, saved in the output/digests directory
-
-## Dependencies
-The OSF Preprint Digest tool relies on the following dependencies:
-
-```bash
-Python 3.6+
-requests
-tqdm
-unidecode
-langdetect
-transformers
-torch
-python-dotenv
-```
 
 These dependencies are listed in the requirements.txt file and can be installed using pip install -r requirements.txt.
 

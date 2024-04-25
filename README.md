@@ -146,10 +146,65 @@ This command will retrieve preprints from the "Psychiatry" and "Neuroscience" di
 The OSF Preprint Digest tool generates the following output files:
 
 - JSON files containing the retrieved preprints, saved in the data/json directory
-- A CSV file containing the preprint summaries, saved in the data/csv directory
-- A CSV file containing the discipline-wise summaries, saved in the output/digests directory
 
-These dependencies are listed in the requirements.txt file and can be installed using pip install -r requirements.txt.
+```json
+{
+        "id": "j726r",
+        "title": "How visual experience shapes body representation",
+        "authors": [
+            "Shahzad, Iqra",
+            "Occelli, Valeria",
+            "Giraudet, Eleonore",
+            "Azanon, Elena",
+            "Longo, Matthew",
+            "Moruaux, Andre",
+            "Collignon, Olivier"
+        ],
+        "abstract": [
+            "We do not have a veridical representation of our body in our mind. For instance,",
+            "tactile distances of equal measure along the medial-lateral axis of our limbs are generally perceived",
+            "as larger than those running along the proximal-distal axis. This anisotropy in tactile distances reflects",
+            "distortions in body-shape representation, such that the body parts are perceived as wider than they",
+            "are. While the origin of such anisotropy remains unknown, it has been suggested that visual",
+            "experience could partially play a role in its manifestation. To causally test the role of",
+            "visual experience on body shape representation, we investigated tactile distance perception in sighted and early",
+            "blind individuals comparing medial-lateral and proximal-distal tactile distances of stimuli presented on the ventral and",
+            "dorsal part of the forearm, wrist, and hand. Overestimation of distances in the medial-lateral over",
+            "proximal-distal body axes were found in both sighted and blind people, but the magnitude of",
+            "the anisotropy was significantly reduced in the forearms of blind people. We conclude that tactile",
+            "distance perception is mediated by similar mechanisms in both sighted and blind people, but that",
+            "visual experience can modulate the tactile distance anisotropy."
+        ],
+        "date_published": "2024-04-20T16:07:35.153014",
+        "license": "563c1cf88c5e4a3877f9e96c",
+        "disciplines": [
+            "Psychiatry"
+        ],
+        "tags": [
+            "blindness",
+            "tactile distance anisotropy",
+            "touch",
+            "vision"
+        ]
+    },
+```
+
+- A CSV file containing the preprint summaries, saved in the data/csv directory
+
+| title                                                        | authors                                                      | abstract                                                     | disciplines |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
+| The architecture of spontaneous thoughts  and experiences: a graph theory approach. | Coppola, Peter; Sikka, Pilleriin; Valli, Katja; Tuominen, Jarno;  Revonsuo, Antti; Loukola, Ville; Bernstein, Ryan; , nanna.strif; Kirberg,  Manuela; Ezquerro-Nassar, Alejandro; Windt, Jennifer; Noreika, Valdas; mota,  natalia; Bekinschtein, Tristan | The language people use in everyday life provides a window into the mind.  Mind-wandering and dreams have been thought to reflect unique individual  differences and mental health. Here we use a large dataset of mind-wandering  (n=1619) and dream (n=1434) reports from 176 individuals in conjunction with  graph theory applied to natural language. We find that dream reports have a  more complex structure, while mind-wandering reports have fewer word  repetitions and more verbose structure, with essential nodal points in the  narrative flux. Dream reports tend to have more thematic repetitions, local  cliques, and global integration. Capitalising on a repeated measures design,  we found that the structure of dream and mind-wandering reports contains  individual-specific information. Finally, we find that word centrality in  dreams is predictive of depression symptoms. Thus, this approach is sensitive  to individual differences, quantitatively differentiates two distinct  contents of consciousness, and seems promising for cost-effective analyses of  large naturalistically occurring qualitative datasets. | Psychiatry  |
+| How visual experience shapes body  representation            | Shahzad, Iqra; Occelli, Valeria; Giraudet, Eleonore; Azanon, Elena;  Longo, Matthew; Moruaux, Andre; Collignon, Olivier | We do not have a veridical representation of our body in our mind. For  instance, tactile distances of equal measure along the medial-lateral axis of  our limbs are generally perceived as larger than those running along the  proximal-distal axis. This anisotropy in tactile distances reflects  distortions in body-shape representation, such that the body parts are  perceived as wider than they are. While the origin of such anisotropy remains  unknown, it has been suggested that visual experience could partially play a  role in its manifestation. To causally test the role of visual experience on  body shape representation, we investigated tactile distance perception in  sighted and early blind individuals comparing medial-lateral and  proximal-distal tactile distances of stimuli presented on the ventral and  dorsal part of the forearm, wrist, and hand. Overestimation of distances in  the medial-lateral over proximal-distal body axes were found in both sighted  and blind people, but the magnitude of the anisotropy was significantly  reduced in the forearms of blind people. We conclude that tactile distance  perception is mediated by similar mechanisms in both sighted and blind  people, but that visual experience can modulate the tactile distance  anisotropy. | Psychiatry  |
+| Towards understanding and halting  legacies of trauma        | Taylor, William; Korobkova, Laura; Bhinderwala, Nabeel; Dias, Brian G | Echoes of natural and anthropogenic traumas not only reverberate within  the physiology, biology, and neurobiology of the generation directly exposed  to them but also within the biology of future generations. With the intent of  understanding this phenomenon, significant efforts have sought to establish  multi-generational legacies of experiences like stress, chemical exposures,  nutritional impoverishment, and chemosensory experiences. From these studies,  we are gaining new appreciation for how legacies of trauma come to be  bequeathed to future generations. This review first outlines principles that  merit attention in the study of multi-generational legacies of trauma. Next,  it discusses causes and consequences that allow for such legacies to  perpetuate across generations. Finally, we discuss silver linings of such  legacies and how legacies of flourishing can be engineered. In summary, this  review synthesizes our current understanding of the concept, causes and  consequences of legacies of trauma and looks to opportunities to halt them. | Psychiatry  |
+|                                                              |                                                              |                                                              |             |
+
+- A CSV file containing the discipline-wise summaries, saved in the output/digests directory (the summaries generated by the BART model)
+
+| Title                                                        | Authors                                                      | Summary                                                      | Discipline |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| The architecture of spontaneous thoughts and  experiences: a graph theory approach. | Coppola, Peter; Sikka, Pilleriin; Valli, Katja; Tuominen, Jarno;  Revonsuo, Antti; Loukola, Ville; Bernstein, Ryan; , nanna.strif; Kirberg,  Manuela; Ezquerro-Nassar, Alejandro; Windt, Jennifer; Noreika, Valdas; mota,  natalia; Bekinschtein, Tristan | The language people use in everyday life provides a window into the mind.  Mind-wandering and dreams have been thought to reflect unique individual  differences and mental health. We find that dream reports have a more complex  structure. We also find that word centrality in dreams is predictive of  depression symptoms. | Psychiatry |
+| How visual experience shapes body  representation            | Shahzad, Iqra; Occelli, Valeria; Giraudet, Eleonore; Azanon, Elena;  Longo, Matthew; Moruaux, Andre; Collignon, Olivier | We do not have a veridical representation of our body in our mind. For  instance, tactile distances of equal measure along the medial-lateral axis of  our limbs are generally perceived as larger than those running along the  proximal-distal axis. This anisotropy in tactile distances reflects  distortions in body-shape representation. | Psychiatry |
+| Towards understanding and halting  legacies of trauma        | Taylor, William; Korobkova, Laura; Bhinderwala, Nabeel; Dias, Brian G | Echoes of natural and anthropogenic traumas reverberate within the  physiology, biology, and neurobiology of the generation directly exposed to  them. With the intent of understanding this phenomenon, significant efforts  have sought to establish multi-generational legacies of experiences like  stress, chemical exposures, nutritional impoverishment, and chemosensory  experiences. | Psychiatry |
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.

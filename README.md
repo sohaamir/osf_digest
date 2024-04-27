@@ -90,6 +90,8 @@ Your folder structure should look something like this:
 ├── requirements.txt
 └── setup.py
 ```
+(I have decided to include some example outputs with the folder, but feel free to delete them. The actual CLI code is contained within `/cli/cli.py` but the 'barebones' Python code is also provided in the `request_preprints.py` script in the repository's root.)
+
 
 ## How the script works
 

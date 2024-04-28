@@ -15,7 +15,7 @@ git clone https://github.com/sohaamir/osf_digest.git
 
 Change to the project directory:
 ```bash
-cd osf-preprint-digest
+cd osf_digest
 ```
 
 Install the required dependencies:
@@ -41,10 +41,11 @@ pip install -e .
 ```
 
 ## Configuration
-Before running the OSF Preprint Digest tool, you need to set up the necessary API tokens, which we can then load into the script using `dotenv`.
+To run the script, you need to set up the necessary API tokens, which we can then load into the script using `dotenv`.
 
-Create a file named `.env` in the project root directory.
-Open the `.env` file and add the following lines:
+To do this: 
+- Create a file named `.env` in the project root directory.
+- Open the `.env` file and add the following lines:
 
 ```bash
 OSF_TOKEN=your_osf_token
@@ -53,45 +54,43 @@ HF_TOKEN=your_hf_token
 
 Replace your_osf_token with your OSF API token and your_hf_token with your Hugging Face API token. Both are freely available on the respective websites, you just need to make an account.
 
-Your folder structure should look something like this:
+Your folder structure should look (something) like this:
 
 ```
+├── LICENSE
 ├── README.md
 ├── cli
-│   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-311.pyc
-│   │   └── cli.cpython-311.pyc
-│   ├── cli.py
-│   └── instructions.md
+│   ├── __init__.py
+│   ├── cli.py
+│   └── instructions.md
 ├── data
-│   ├── csv
-│   │   ├── 2024-04-14_osf_digest.csv
-│   │   └── 2024-04-21_osf_digest.csv
-│   └── json
-│       ├── behavioural_neuroscience_preprints.json
-│       ├── cognitive_neuroscience_preprints.json
-│       ├── education_preprints.json
-│       ├── memory_preprints.json
-│       ├── mental_health_preprints.json
-│       └── psychiatry_preprints.json
+│   ├── csv
+│   │   ├── 2024-04-14_osf_digest.csv
+│   │   └── 2024-04-21_osf_digest.csv
+│   └── json
+│       ├── behavioural_neuroscience_preprints.json
+│       ├── cognitive_neuroscience_preprints.json
+│       ├── education_preprints.json
+│       ├── memory_preprints.json
+│       ├── mental_health_preprints.json
+│       └── psychiatry_preprints.json
 ├── osf_digest.egg-info
-│   ├── PKG-INFO
-│   ├── SOURCES.txt
-│   ├── dependency_links.txt
-│   ├── entry_points.txt
-│   ├── requires.txt
-│   └── top_level.txt
+│   ├── PKG-INFO
+│   ├── SOURCES.txt
+│   ├── dependency_links.txt
+│   ├── entry_points.txt
+│   ├── requires.txt
+│   └── top_level.txt
 ├── output
-│   └── digests
-│       ├── 2024-04-14_discipline_summaries.csv
-│       └── 2024-04-21_discipline_summaries.csv
+│   └── digests
+│       ├── 2024-04-14_discipline_summaries.csv
+│       └── 2024-04-21_discipline_summaries.csv
 ├── request_preprints.py
 ├── requirements.txt
 └── setup.py
 ```
-(I have decided to include some example outputs with the folder, but feel free to delete them. The actual CLI code is contained within `/cli/cli.py` but the 'barebones' Python code is also provided in the `request_preprints.py` script in the repository's root.)
 
+(I have decided to include some example outputs with the folder, but feel free to delete them. The actual CLI code is contained within /cli/cli.py but the 'barebones' Python code is also provided in the request_preprints.py script in the repository's root.)
 
 ## How the script works
 

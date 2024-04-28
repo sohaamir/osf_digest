@@ -4,3 +4,4 @@ unidecode
 langdetect
 transformers
 torch
+python-dotenv

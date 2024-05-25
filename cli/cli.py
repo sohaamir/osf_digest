@@ -13,9 +13,11 @@ from transformers import BartTokenizer, BartForConditionalGeneration, pipeline
 import torch
 from dotenv import load_dotenv
 
+# Normalize text by removing accents and special characters
 def normalize_text(text):
     return unidecode(text)
 
+# Split the abstract into lines with a maximum number of words per line
 def split_abstract(abstract, max_words_per_line=15):
     words = abstract.split()
     lines = []
@@ -30,6 +32,7 @@ def split_abstract(abstract, max_words_per_line=15):
         lines.append(" ".join(current_line))
     return lines
 
+# Request citation data from the OSF API
 def process_citation(preprint, headers):
     citation_url = f"https://api.osf.io/v2/preprints/{preprint['id']}/citation/?style=chicago-author-date"
     response = requests.get(citation_url, headers=headers)
@@ -41,6 +44,7 @@ def process_citation(preprint, headers):
         print(f"Request failed for preprint {preprint['id']} with status code: {response.status_code}")
     return preprint
 
+# Check if the text is in English
 def is_english(text):
     try:
         language = detect(text)
@@ -48,27 +52,25 @@ def is_english(text):
     except:
         return False
 
+# Retrieve and process preprints from the OSF API
 def retrieve_preprints(args, osf_token):
     osf_url = "https://api.osf.io/v2/preprints/"
     data_folder = "data/json"
     csv_folder = "data/csv"
 
-    # Set up authentication header with your access token
     headers = {
         "Authorization": f"Bearer {osf_token}"
     }
 
-    # Create the data folder if it doesn't exist
     os.makedirs(data_folder, exist_ok=True)
     os.makedirs(csv_folder, exist_ok=True)
 
     all_preprints = []
 
+    current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
     for discipline in args.disciplines:
         print(f"Processing discipline: {discipline}")
-
-        filename = f"{discipline.lower().replace(' ', '_')}_preprints.json"
-        filepath = os.path.join(data_folder, filename)
 
         preprints = []
 
@@ -142,19 +144,21 @@ def retrieve_preprints(args, osf_token):
 
         start_time = time.time()
 
-        with open(filepath, "w") as file:
+        json_filename = f"{current_datetime}_{discipline}_{args.days}day_preprints.json"
+        json_filepath = os.path.join(data_folder, json_filename)
+
+        with open(json_filepath, "w") as file:
             json.dump(preprints, file, indent=4)
 
         end_time = time.time()
         saving_time = end_time - start_time
         print(f"Time taken to save data: {saving_time:.2f} seconds")
 
-        print(f"Saved data to: {filepath}")
+        print(f"Saved data to: {json_filepath}")
 
         all_preprints.extend(preprints)
 
-    current_date = datetime.now().strftime("%Y-%m-%d")
-    csv_filename = f"{current_date}_osf_digest.csv"
+    csv_filename = f"{current_datetime}_{'_'.join(args.disciplines)}_{args.days}day_preprints.csv"
     csv_filepath = os.path.join(csv_folder, csv_filename)
 
     with open(csv_filepath, "w", newline="", encoding="utf-8") as file:
@@ -174,7 +178,8 @@ def retrieve_preprints(args, osf_token):
 
     return all_preprints
 
-def generate_summaries(args, all_preprints):
+# Generate summaries of the preprints
+def generate_summaries(args, all_preprints, disciplines, days):
     output_dir = "output/digests"
     os.makedirs(output_dir, exist_ok=True)
 
@@ -183,38 +188,53 @@ def generate_summaries(args, all_preprints):
         for discipline in preprint["disciplines"]:
             if discipline not in discipline_data:
                 discipline_data[discipline] = []
-            discipline_data[discipline].append(" ".join(preprint["abstract"]))
+            discipline_data[discipline].append(preprint)
 
     summarizer = pipeline("summarization", model="facebook/bart-large-cnn", tokenizer="facebook/bart-large-cnn")
+    tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
 
-    discipline_summaries = {}
-    for discipline, abstracts in discipline_data.items():
-        abstract_summaries = []
-        for preprint in all_preprints:
-            if discipline in preprint["disciplines"]:
-                abstract = " ".join(preprint["abstract"])
-                abstract = abstract[:1024]
+    total_input_length = 0
+    total_preprints = 0
 
-                summary = summarizer(abstract, max_length=args.max_length, min_length=args.min_length, do_sample=False)
-                abstract_summaries.append(f"Title: {preprint['title']}\nAuthors: {'; '.join(preprint['authors'])}\nSummary: {summary[0]['summary_text']}\n")
+    all_summaries = []
+    for discipline, preprints in discipline_data.items():
+        for preprint in preprints:
+            abstract = " ".join(preprint["abstract"])
+            abstract = abstract[:1024]
 
-        discipline_summary = "\n".join(abstract_summaries)
-        discipline_summaries[discipline] = discipline_summary
+            input_length = len(tokenizer.encode(abstract))
+            total_input_length += input_length
+            total_preprints += 1
 
-    current_date = datetime.now().strftime("%Y-%m-%d")
-    csv_filename = f"{current_date}_discipline_summaries.csv"
+            summary = summarizer(abstract, max_length=args.max_length, min_length=args.min_length, do_sample=False)
+            all_summaries.append({
+                "Discipline": discipline,
+                "Title": preprint["title"],
+                "Authors": "; ".join(preprint["authors"]),
+                "Summary": summary[0]["summary_text"]
+            })
+
+    average_input_length = total_input_length // total_preprints
+    ideal_max_length = max(50, average_input_length // 2)
+
+    print(f"For these preprints, the ideal max_length is {ideal_max_length}. You may want to re-run the command with this value.")
+
+    current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    disciplines_str = "_".join(disciplines)
+    csv_filename = f"{current_datetime}_{disciplines_str}_{days}day_summary.csv"
     csv_filepath = os.path.join(output_dir, csv_filename)
 
     with open(csv_filepath, "w", newline="", encoding="utf-8") as file:
-        fieldnames = ["Discipline", "Summary"]
+        fieldnames = ["Discipline", "Title", "Authors", "Summary"]
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
 
-        for discipline, summary in discipline_summaries.items():
-            writer.writerow({"Discipline": discipline, "Summary": summary})
+        for summary in all_summaries:
+            writer.writerow(summary)
 
     print(f"Saved discipline summaries to: {csv_filepath}")
 
+# Parse command-line arguments and execute the script
 def main():
     parser = argparse.ArgumentParser(description="Retrieve and summarize preprints from OSF.")
     parser.add_argument("--disciplines", nargs="+", default=["Psychiatry"], help="List of disciplines to retrieve preprints from (default: ['Psychiatry'])")
@@ -236,10 +256,8 @@ def main():
     if args.min_length < 0 or args.min_length >= args.max_length:
         parser.error("Argument --min_length must be a non-negative integer and less than --max_length.")
 
-    # Load the environment variables from the .env file
     load_dotenv()
 
-    # Retrieve the OSF_TOKEN and HF_TOKEN environment variables
     osf_token = os.getenv("OSF_TOKEN")
     hf_token = os.getenv("HF_TOKEN")
 
@@ -250,7 +268,7 @@ def main():
         raise ValueError("HF_TOKEN environment variable not set")
 
     all_preprints = retrieve_preprints(args, osf_token)
-    generate_summaries(args, all_preprints)
+    generate_summaries(args, all_preprints, args.disciplines, args.days)
 
 if __name__ == "__main__":
     main()

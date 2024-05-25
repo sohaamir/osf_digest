@@ -59,31 +59,28 @@ Your folder structure should look (something) like this:
 ├── LICENSE
 ├── README.md
 ├── cli
-│   ├── __init__.py
-│   ├── cli.py
-│   └── instructions.md
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-311.pyc
+│   │   └── cli.cpython-311.pyc
+│   ├── cli.py
+│   └── instructions.md
 ├── data
-│   ├── csv
-│   │   ├── 2024-04-14_osf_digest.csv
-│   │   └── 2024-04-21_osf_digest.csv
-│   └── json
-│       ├── behavioural_neuroscience_preprints.json
-│       ├── cognitive_neuroscience_preprints.json
-│       ├── education_preprints.json
-│       ├── memory_preprints.json
-│       ├── mental_health_preprints.json
-│       └── psychiatry_preprints.json
+│   ├── csv
+│   │   └── 2024-05-25_16-11-31_Psychiatry_Cognitive Neuroscience_7day_preprints.csv
+│   └── json
+│       ├── 2024-05-25_16-11-31_Cognitive Neuroscience_7day_preprints.json
+│       └── 2024-05-25_16-11-31_Psychiatry_7day_preprints.json
 ├── osf_digest.egg-info
-│   ├── PKG-INFO
-│   ├── SOURCES.txt
-│   ├── dependency_links.txt
-│   ├── entry_points.txt
-│   ├── requires.txt
-│   └── top_level.txt
+│   ├── PKG-INFO
+│   ├── SOURCES.txt
+│   ├── dependency_links.txt
+│   ├── entry_points.txt
+│   ├── requires.txt
+│   └── top_level.txt
 ├── output
-│   └── digests
-│       ├── 2024-04-14_discipline_summaries.csv
-│       └── 2024-04-21_discipline_summaries.csv
+│   └── digests
+│       └── 2024-05-25_16-13-48_Psychiatry_Cognitive Neuroscience_7day_summary.csv
 ├── request_preprints.py
 ├── requirements.txt
 └── setup.py
